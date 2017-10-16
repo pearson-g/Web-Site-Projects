@@ -1,0 +1,1 @@
+<a href="/product/">[field:typename/]</a>

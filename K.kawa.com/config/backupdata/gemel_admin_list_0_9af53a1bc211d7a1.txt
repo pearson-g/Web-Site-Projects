@@ -1,0 +1,1 @@
+INSERT INTO `gemel_admin_list` VALUES('1','10','gemeladmin','e53b93079be7ceb0d7611d99266ef826','admin','','','0','1498440072','127.0.0.1');

@@ -1,0 +1,9 @@
+会员信息调用标签
+>>gemel>>
+{gemel:memberlist orderby='scores' row='20'}
+<a href="../user/index.php?uid={gemel:field.userid /}">{gemel:field.userid /}</a>
+<span>{gemel:field.scores /}</span>
+{/gemel:memberlist}
+>>gemel>>
+orderby = 'scores' 按积分排序
+row = '6' 调用数目

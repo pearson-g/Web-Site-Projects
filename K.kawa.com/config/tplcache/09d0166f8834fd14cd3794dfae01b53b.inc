@@ -1,0 +1,1 @@
+/images/products/globe-ball-lamp-for-ceiling-lights-related.jpg

@@ -1,0 +1,2 @@
+INSERT INTO `gemel_sys_module` VALUES('1','1f35620fb42d452fa2bdc1dee1690f92','文件管理器','','','0','');
+INSERT INTO `gemel_sys_module` VALUES('2','b437d85a7a7bc778c9c79b5ec36ab9aa','友情链接','','','0','');

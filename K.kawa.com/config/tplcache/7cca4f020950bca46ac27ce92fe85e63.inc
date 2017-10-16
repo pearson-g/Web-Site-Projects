@@ -1,0 +1,26 @@
+{gemel:field name='keywords'}站长之家, bing, 微软, 百度{/gemel:field}
+{gemel:field name='description'}在海外市场，除了为雅虎、Facebook、Siri等平台提供技术支持，为自己扩大市场占有率和增加对社交媒体的搜索能力外，bing的另一个重要动作就是与Google展开“盲测”PK赛，让{/gemel:field}
+{gemel:field name='title'}不走差异化，这次bing要与百度、360、搜狗们正面交锋了{/gemel:field}
+{gemel:field name='writer'}{/gemel:field}
+{gemel:field name='source'}{/gemel:field}
+{gemel:field name='body'}<p style="text-align:center;">          </p>
+                                                            <p>今年年初，搜狗与搜搜的合并还是&ldquo;谣言&rdquo;，360挑战百度的战争也刚刚开打，PingWest曾报道过在中国搜索市场处于&ldquo;第三集团&rdquo;的微软bing（必应）已经按耐不住，希望抓住中国用户对国际互联网的搜索需求，来让自己的市场份额向第二集团挺进。</p>
+<p>不过，7个月过去了，搜狗和搜搜真的成了一家，360也拿下了20%的用户，而bing的&ldquo;差异化&rdquo;战略在市场层面却没有多少起色。<strong>当然，我们并不能把这个现状完全怪罪于微软在战略和产品上的失策，因为搜索本身就是一个惯性极强的产品，更何况是在用户互联网化水准较低，渠道和入口为王的中国市场。</strong></p>
+<p>虽然微软全球资深副总裁沈向洋说：&ldquo;微软追求的不是能给bing增加多少流量，而是希望能够增加一些bing fans&rdquo;，但事实上，微软不可能不在乎：今年3月，时任bing主管的陆奇曾表示：<strong>&ldquo;作为一款产品，搜索正以深刻的方式发生巨大的变化。微软会将bing的技术以一个新的信息平台的方式融入微软的全部设备与服务&rdquo;。</strong>随着陆奇成为应用程序和服务部门的负责人，bing的地位也愈发重要。</p>
+<p>在海外市场，除了为雅虎、Facebook、Siri等平台提供技术支持，为自己扩大市场占有率和增加对社交媒体的搜索能力外，bing的另一个重要动作就是与Google展开&ldquo;盲测&rdquo;PK赛，让用户完全依靠搜索结果选出真心喜欢的搜索引擎，并且赢得了比赛的胜利。如今，尝到了一些甜头的微软决定把类似的战略延续到中国市场中来&mdash;&mdash;不走差异化市场，而是正面交锋，寄望于通过在搜索体验上的竞赛来赢得用户。</p>
+<p>Bing的产品总监王颖介绍说，他们对bing做了不少升级，让它会更贴近中国用户的搜索习惯：例如，用户用拼音搜索时会做出更精准的补全；将相近的搜索结果展示在一起；在bing主页下部增加热门导航；预见用户的搜索意图，给出适合的解决方案；当用户用中文词汇搜索国际信息时，自动转换为英文为他们提供更丰富的答案，例如，搜索&ldquo;拜仁&rdquo;图片时，系统同样会提供以&ldquo;Bayern Munich&rdquo;作为关键词的搜索结果。</p>
+<p style="text-align: center; text-indent: 0;"><img class="aligncenter size-full wp-image-22227" src="/upload/allimg/c131015/13QR1502VG0-21937.jpg" border="0" width="665" alt="image001" height="336" /></p>
+<p>除此以外，用户在通过bing搜索人物时，它也会通过必应影响力（bing Score）这项功能为用户提供更多的人物细节信息、建议搜索词、以及与热点事件对应人物影响力曲线。</p>
+<p>可以看出，bing以上的升级几乎都是在与国内的搜索产品进行&ldquo;同质化竞争&rdquo;。当然，仅仅做到&ldquo;我的搜索体验比百度更优秀&rdquo;并不能帮助bing从这些百度、360、搜狗手中赢得多少市场，因为你很难令大部分用户知道bing并为此改变自己根深蒂固的搜索习惯。</p>
+<p>既然如此，<strong>抢占入口，为用户建立新的使用习惯是bing想要在中国市场占有一席之地必须去做的事情，而Windows 8.1和Windows Phone给了微软这样的机会</strong>。</p>
+<p>在即将发布的Windows 8.1中，bing最大的改变之一就是不再需要从屏幕右侧滑出使用了，而是在桌面首页，当用户直接键入内容时，就开始调用搜索。微软把这种不用打开任何第三方工具就能直接完成搜索的方式称为&ldquo;零次搜索&rdquo;。</p>
+<p style="text-align: center; text-indent: 0;"><img class="aligncenter size-full wp-image-22229" src="/upload/allimg/c131015/13QR150334410-343B.png" border="0" width="619" alt="image007" height="347" /></p>
+<p>既然不用搜索打开第三方工具，那么搜素结果的展现形式当然也发生了改变&mdash;&mdash;当搜索网络内容时，它们将以一种沉浸式的体验展示给用户。例如，用户在桌面输入&ldquo;王力宏&rdquo;进行搜索后，就会在一个屏幕上出现王力宏的详细信息、音乐、视频和照片，如果将屏幕右滑，将会进入网页搜索结构，而如果点击&ldquo;更多&rdquo;按钮，将会为你展现人物的维基百科。在未来，它甚至会直接调用Wiki Windows App&hellip;&hellip;这种搜索方式让用户只需直接输入，就能方便的查找本地文件、应用、云端文件和互联网内容。</p>
+<p style="text-align: center; text-indent: 0;"><img class="aligncenter size-full wp-image-22228" src="/upload/allimg/c131015/13QR150394T0-421G.jpg" border="0" width="620" alt="image006" height="344" /></p>
+<p>在Windows Phone上，bing同样遵循了降低搜索路径的设计理念。在每一台采用Windows Phone操作系统的手机上，都有三个按钮，其中一个就是搜索按钮，点击就能直接进入bing的搜索页面，而用户按住Windows键，也可以进行语音搜索。</p>
+<p>在手机上，微软也将网页搜索、本地搜索和微软的服务整合了起来，例如用bing的眼睛按钮可以直接在无需安装任何第三方应用的情况下进行二维码扫描，bing同样内嵌了对周边商圈的搜索和HERE Drive导航。</p>
+<p>由于Windows Phone能够把任何第三方应用设置为锁屏，所以你甚至能够把bing设置为锁屏页面，这不仅方面了用户使用搜索，同时bing主页的图片也起到了锁屏壁纸的效果。</p>
+<p>由于新版的Windows系统还未发布，所以微软并未向我完全透露所有bing的新特性和与操作系统融合的状况。但可以看出，在改进搜索体验参与同质化竞争的同时，微软已经寄望于通过设备和操作系统作为抢占搜索入口的渠道，以便捷、高效的搜索方式来从其他的搜索产品那抢占用户。</p>
+<p>剩下的问题就在于，新版Windows 8.1操作系统和Windows Phone，能否承载微软的希望了。</p>{/gemel:field}
+{gemel:field name='pubdate'}{/gemel:field}
+{gemel:field name='litpic'}/upload/allimg/c131015/13QR1502VG0-21937_lit.jpg{/gemel:field}

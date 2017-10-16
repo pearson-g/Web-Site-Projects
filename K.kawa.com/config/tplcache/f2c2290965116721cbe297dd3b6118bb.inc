@@ -1,0 +1,1 @@
+<a href="{gemel:field name='typeurl'/}" class="{gemel:field.currentstyle/}"><cite>[field:pubdate function="MyDate('m-d',@me)"/]</cite></a>

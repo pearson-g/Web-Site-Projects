@@ -1,0 +1,55 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>政元软件网站管理系统</title>
+<link href="css/login.css" rel="stylesheet" type="text/css" />
+<script src="../functions/js/jquery/jquery.js" language="javascript" type="text/javascript"></script>
+<script type="text/javascript">
+$ = jQuery;
+function changeAuthCode() {
+	var num = 	new Date().getTime();
+	var rand = Math.round(Math.random() * 10000);
+	num = num + rand;
+	$('#ver_code').css('visibility','visible');
+	if ($("#vdimgck")[0]) {
+		$("#vdimgck")[0].src = "../functions/vdimgck.php?tag=" + num;
+	}
+	return false;	
+}
+</script>
+
+</head>
+<body>
+<div class="login_main">
+    <a href="http://www.gemelsoft.com/" target="_blank" class="login_logo"></a>
+    <form name="LoginForm" action="login.php" method="post">
+    <input type="hidden" name="gotopage" value="<?php if(!empty($gotopage)) echo $gotopage;?>" />
+    <input type="hidden" name="dopost" value="login" />
+    <input name='adminstyle' type='hidden' value='newgemel' />
+    <div class="main_box">
+        <ul>
+            <li class="login_user"><input type="text" name="userid" value="请输入用户名" /></li>
+            <li class="login_pass"><input type="password" name="pwd" value="" /></li>
+            <li class="login_code">
+                <input type="text" name="validate" value="验证码" /> 
+                <img src="../functions/vdimgck.php" onclick="this.src=this.src+'?'" alt="看不清？点击更换" id="vdimgck" />
+                <a href="#" onClick="changeAuthCode();" title="点击更换">看不清？</a>
+            </li>
+            <li class="login_submit"><input type="submit" value="" /></li>
+        </ul>
+    </div>
+    </form>
+</div>
+<script type="text/javascript">
+function s(obj,keyword){
+	var obj=$(obj);
+	obj.focus(function(){if(obj.val()==keyword){obj.val("").css("color","#000");}});
+	obj.blur(function(){if(obj.val()==""){obj.val(keyword).css("color","#999999");}});
+	}
+s(".login_user input","请输入用户名");
+s(".login_code input","验证码")
+
+</script>
+</body>
+</html>

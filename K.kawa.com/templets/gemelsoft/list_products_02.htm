@@ -1,0 +1,66 @@
+{gemel:include filename="head.htm"/}
+
+<body style="background-color: #f5f5f5;">
+    <!--nav begin -->
+    {gemel:include filename="nav.htm"/}
+    <!--nav end -->
+    <h1 class="none">{gemel:global.cfg_keywords/}</h1>
+    <div class="bread-box">
+        <div class="bread w1200">
+            <p>Your are here:&nbsp;{gemel:field.position function=position_preg(@me)/}></p>
+        </div>
+    </div>
+    <a id="for-here" name="for-here"></a>
+    <!--product-list start-->
+    <div class="pro-box w1200 clear">
+        <div class="pro-categories">
+            <h2>Product Categories</h2>
+            <ul>
+                {gemel:channelartlist typeid='5,6,7,8,9,10,11,12,13,14'}
+                <li><a href="{gemel:field.typeurl/}">{gemel:field.typename/}<i>&nbsp;</i></a></li>
+                {/gemel:channelartlist}
+            </ul>
+        </div>
+        <div class="pro-main">
+            <div class="pro-top clear">
+                <div class="search">
+                    <form action="/search/index.php" method="get" id="form1">
+                        <input name="keyword" id="keyword" type="text" value="Search.." onfocus="if(this.value == 'Search..'){this.value = '';}" onblur="if(this.value == ''){this.value = 'Search..';}" class="flow-input">
+                        <input type="submit" class="flow-btn" value="">
+                    </form>
+                </div>
+                <h3>Search for Your Demand</h3>
+            </div>
+            <div class="pro-content-01">
+                <ul class="clear">
+                    {gemel:channelartlist typeid='5,6,15,16,17,18,19,20,22,23,24,25,27,28,30,31,33,34'}
+                    <li class="hvr-float-shadow">
+                        <a href="{gemel:field.typeurl/}"><img src="{gemel:field.typepic2/}" width="130" height="110" alt=""><span>{gemel:field.typename/}</span><i>&nbsp;</i></a>
+                    </li>
+                    {/gemel:channelartlist}
+                </ul>
+            </div>
+        </div>
+    </div>
+    </div>
+    <div class="list-side">
+        <div class="sidebar">
+            <em>&nbsp;</em>
+            <div class="side-categories">
+                <span>X</span>
+                <h2>Product Categories</h2>
+                <ul>
+                    {gemel:channelartlist typeid='2'}
+                    <li><a href="{gemel:field.typeurl/}">{gemel:field.typename/}<i>&nbsp;</i></a></li>
+                    {/gemel:channelartlist}
+                </ul>
+            </div>
+        </div>
+    </div>
+    <!--products  end-->
+    <!-- footer  begin -->
+    {gemel:include filename="footer.htm"/}
+    <!-- footer  end -->
+</body>
+
+</html>

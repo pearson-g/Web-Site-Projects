@@ -1,0 +1,1 @@
+<a href="[field:typeurl/]" ><img src="[field:typepic/]" width="187" height="229" alt="Company" title="Company" /></a>

@@ -1,0 +1,1 @@
+<a href="[field:arcurl/]" style="padding-left:0">[field:title/]</a><span>|</span>

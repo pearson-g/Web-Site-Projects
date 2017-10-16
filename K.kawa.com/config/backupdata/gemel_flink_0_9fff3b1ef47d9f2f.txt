@@ -1,0 +1,1 @@
+INSERT INTO `gemel_flink` VALUES('2','1','http://www.yingxiaoli.com','政元软件','','','','1226375403','1','2');

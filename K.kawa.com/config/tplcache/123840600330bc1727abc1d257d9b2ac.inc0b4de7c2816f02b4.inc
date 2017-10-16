@@ -1,0 +1,17 @@
+<?php
+$z[0]=Array("field","",13,42);
+$z[0][4]['name']="typeurl";
+$z[1]=Array("field","",51,78);
+$z[1][4]['name']="currentstyle";
+$z[2]=Array("field","",90,119);
+$z[2][4]['name']="typepic";
+$z[3]=Array("field","",126,156);
+$z[3][4]['name']="typename";
+$z[4]=Array("field","",165,195);
+$z[4][4]['name']="typename";
+$z[5]=Array("field","",228,258);
+$z[5][4]['name']="typename";
+$z[6]=Array("sql","\r\n                                      <li><a href=\"[field:typedir function='str_replace(\"{cmspath}\",\"\",@me)'/]\"  class=\"depth_3\"><img src=\"{gemel:field name='typepic'/}\" alt=\"{gemel:field name='typename'/}\" title=\"{gemel:field name='typename'/}\" width=\"88\" height=\"88\" /><span>{gemel:field name='typename'/}</span></a></li>\r\n                                  ",358,816);
+$z[6][4]['sql']="Select * from gemel_arctype where reid=~id~ ORDER BY id limit 0,20";
+
+?>

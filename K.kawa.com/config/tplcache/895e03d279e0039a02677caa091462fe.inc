@@ -1,0 +1,1 @@
+<li><a href="[field:arcurl/]"><img src="[field:litpic/]" width="220" height="220" alt="[field:title/] - [field:typename/]" title="[field:title/] - [field:typename/]"><p>[field:title/]</p></a><p><i><input type="checkbox" name="list[]" value="[field:id/]" class="hidden" /></i><em><a href="/search/email.php?flag=true&sendlist=[field:id/]">&nbsp;</a></em></p></li>

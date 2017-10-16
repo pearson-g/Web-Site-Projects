@@ -1,0 +1,212 @@
+{gemel:include filename="head_art.htm"/}
+
+<body style="background-color: #f5f5f5;">
+    <!-- oncontextmenu="return false"-->
+    <!--nav begin <-->
+    {gemel:include filename="nav_art.htm"/}
+    <!--nav end -->
+    <!--article-products start-->
+    <h1 class="none">{gemel:field.typename/}--{gemel:field.title/}</h1>
+    <div class="bread-box">
+        <div class="bread w1200">
+            <p>Your are here:&nbsp;{gemel:field.position function=position_preg(@me)/} > <a href="javascript:void(0);">{gemel:field.title/}</a></p>
+        </div>
+    </div>
+    <div class="article-main">
+        <div class="article-box clear w1200">
+            <div class="article-slide-box">
+                <div class="slideshow">
+                    <ul class="clear">
+                        {gemel:field name='imgurls'}
+                        <li>
+                            <img src="[field:imgsrctrue/]" width="560" height="420" title="[field:typename/] - [field:title/]" alt="[field:typename/] - [field:title/]" />
+                        </li>
+                        {/gemel:field}
+                    </ul>
+                </div>
+                
+            </div>
+            <div class="feature">
+                <h2>{gemel:field.title/}</h2>
+                <p>0124325019,0124515028,0124515040</p>
+                <div class="feature-quotes">
+                    <a class="rect-btn noajax" href="/search/email.php?flag=true&sendlist={gemel:field.id/}">
+                        <svg>
+                            <defs>
+                                <linearGradient id="home-about" x1="0%" y1="0%" x2="100%" y2="0%">
+                                    <stop offset="0%" stop-color="#FFF">
+                                        <animate attributeName="stop-color" values="#FFF;#F5F5F5;#FFF;#FFF" dur="2s" repeatCount="indefinite"></animate>
+                                    </stop>
+                                    <stop offset="33%" stop-color="#FFF">
+                                        <animate attributeName="stop-color" values="#F5F5F5;#FFF;#FFF;#FFF" dur="2s" repeatCount="indefinite"></animate>
+                                    </stop>
+                                    <stop offset="66%" stop-color="#F5F5F5">
+                                        <animate attributeName="stop-color" values="#FFF;#F5F5F5;#FFF;#FFF;" dur="2s" repeatCount="indefinite"></animate>
+                                    </stop>
+                                </linearGradient>
+                            </defs>
+                            <rect x="0" y="0" fill="none" width="100%" height="100%" stroke="url(#home-about)"></rect>
+                        </svg>
+                        <p data-txt="Showroom">Inquiry Now </p>
+                    </a>
+                    <a class="rect-btn noajax add-basket" href="###">
+                        <svg>
+                            <defs>
+                                <linearGradient id="home-about" x1="0%" y1="0%" x2="100%" y2="0%">
+                                    <stop offset="0%" stop-color="#FFF">
+                                        <animate attributeName="stop-color" values="#FFF;#F5F5F5;#FFF;#FFF" dur="2s" repeatCount="indefinite"></animate>
+                                    </stop>
+                                    <stop offset="33%" stop-color="#FFF">
+                                        <animate attributeName="stop-color" values="#F5F5F5;#FFF;#FFF;#FFF" dur="2s" repeatCount="indefinite"></animate>
+                                    </stop>
+                                    <stop offset="66%" stop-color="#F5F5F5">
+                                        <animate attributeName="stop-color" values="#FFF;#F5F5F5;#FFF;#FFF;" dur="2s" repeatCount="indefinite"></animate>
+                                    </stop>
+                                </linearGradient>
+                            </defs>
+                            <rect x="0" y="0" fill="none" width="100%" height="100%" stroke="url(#home-about)"></rect>
+                        </svg>
+                        <p data-txt="Showroom"><i><input type="checkbox" name="list[]" value="{gemel:field.id/}" class="hidden"></i>Add to Basket</p>
+                    </a>
+                </div>
+                <div class="slide-list">
+                    <ul class="clear">
+                        {gemel:field name='id' function='get_image_list(@me)'/}
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="parameter-box">
+        <div class="w1200">
+        <div class="param-top">
+          <ul class="clear">
+                <li class="active"><a href="###">Refference Number</a></li>
+                <li><a href="###">Specification</a></li>
+                <li><a href="###">Application</a></li>
+                <li><a href="###">Packing</a></li>
+            </ul>
+        </div>
+        <div class="param-content">
+           <ul class="active">
+              {gemel:field.pro_reff/}
+            </ul>
+            <ul>
+              {gemel:field.pro_spe/}
+            </ul>
+            <ul>
+              {gemel:field.pro_app/}
+            </ul>
+            <ul class="packing-content">
+              {gemel:field.pro_pac/}
+
+            </ul>
+        </div>
+            
+           
+            
+        </div>
+    </div>
+    </div>
+    </div>
+    </div>
+    <div class="related-box">
+        <div class="w1200">
+            <h2><em>&nbsp;</em>Related Products <i>&nbsp;</i></h2>
+            <div class="related-slide-box">
+                <div class="related-show">
+                    <ul class="clear products-list">
+                        <!--   {gemel:arclist row='12' titlelen='100' orderby='weight' type='tid' channelid='2' }
+                        <li>
+                            <a class="product-img" href="[field:arcurl/]">
+                                <img src="[field:litpic/]" width="282" height="259" alt="[field:title/]" title="[field:title/]">
+                            </a>
+                            <a class="product-txt" href="[field:arcurl/]">
+                                
+                                <span>[field:title/]</span>
+                            </a>
+                        </li>
+                        {/gemel:arclist} -->
+                        <li>
+                            <a href=""><img src="/images/products/art-01-related.jpg" width="260" height="260" alt="">
+                                <span>Alternator </span></a>
+                        </li>
+                        <li>
+                            <a href=""><img src="/images/products/art-01-related.jpg" width="260" height="260" alt="">
+                                <span>Alternator </span></a>
+                        </li>
+                        <li>
+                            <a href=""><img src="/images/products/art-01-related.jpg" width="260" height="260" alt="">
+                                <span>Alternator </span></a>
+                        </li>
+                        <li>
+                            <a href=""><img src="/images/products/art-01-related.jpg" width="260" height="260" alt="">
+                                <span>Alternator </span></a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="related-list"></div>
+                <div class="arrow next"></div>
+                <div class="arrow prev"></div>
+            </div>
+        </div>
+    </div>
+     <div class="sendbox clear">
+     <div class="close-send">X</div>
+     <p>Count(<span class="num-basket">0</span>)</p>
+     <div class="send-list">
+       <form name="sendemail" id="sendemail" action="/search/email.php" method="post">
+          <input type="hidden" name="flag" id="flag" value="true"/>
+          <input type="hidden" name="sendlist" id="sendlist" value=""/>
+          <ul>
+              
+          </ul>
+       </form>     
+     </div>
+     <div class="send-button"><em>&nbsp;</em></div>
+     <div class="clear-all">Clear All</div>
+</div>
+<div class="sidebar">
+    <em>&nbsp;</em>
+<div class="side-categories">
+            <span>X</span>
+         <h2>Product Categories</h2>
+            <ul>
+             {gemel:channelartlist typeid='2'}
+            <li><a href="{gemel:field.typeurl/}">{gemel:field.typename/}<i>&nbsp;</i></a></li>
+            {/gemel:channelartlist}
+            </ul> 
+    </div>
+</div>
+    <!--article-products end-->
+    <!-- footer  begin -->
+    {gemel:include filename="footer.htm"/}
+    <script type="text/javascript" src="/js/arc-slide.js"></script>
+    <script src="{gemel:field name='phpurl'/}/count.php?view=yes&amp;aid={gemel:field name='id'/}&amp;mid={gemel:field name='mid'/}" type='text/javascript'></script>
+    <script type="text/javascript">
+    $(function() {
+        $(".article-slide-box").arc_slide({
+            M_UL: $(".slideshow ul"),
+            S_UL: $(".slide-list ul li"), //small
+            S_UL2: $(".slidelist2 ul li"),
+            prev: $(".slidelist .prev"),
+            next: $(".slidelist .next"),
+            animated: 'click', //hover  //click
+            autoPlay: false,
+            mousemoveStop: true,
+            tag: "leftLoop", //leftLoop   //topLoop  //slide   //fade
+            cStyle: "level", //level //vertical
+            citOn: "now",
+            sTime: 'arc_sTime',
+            cvis: 4, //小图可视个数       
+            intTime: 5000, //自动循环时切换间隔
+            adaptive: false
+        })
+
+    })
+    </script>
+
+    <!-- footer  end -->
+</body>
+
+</html>

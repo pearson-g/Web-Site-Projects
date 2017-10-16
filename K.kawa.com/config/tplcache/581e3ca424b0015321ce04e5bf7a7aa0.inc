@@ -1,0 +1,1 @@
+<a href="[field:typelink/]">SMART WATCHES ETC</a>

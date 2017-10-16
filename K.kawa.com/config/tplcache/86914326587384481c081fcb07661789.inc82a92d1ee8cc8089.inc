@@ -1,0 +1,25 @@
+<?php
+$z[0]=Array("pagestyle","",0,94);
+$z[0][4]['maxwidth']="800";
+$z[0][4]['pagepicnum']="";
+$z[0][4]['ddmaxwidth']="200";
+$z[0][4]['row']="100";
+$z[0][4]['col']="100";
+$z[0][4]['value']="3";
+$z[1]=Array("img"," /upload/allimg/170714/beverage-can-depalletizer-machine-01.jpg ",96,290);
+$z[1][4]['ddimg']="/upload/allimg/170714/beverage-can-depalletizer-machine-01-lp.jpg";
+$z[1][4]['text']="";
+$z[1][4]['width']="530";
+$z[1][4]['height']="450";
+$z[2]=Array("img"," /upload/allimg/170714/beverage-can-depalletizer-machine-02.jpg ",292,486);
+$z[2][4]['ddimg']="/upload/allimg/170714/beverage-can-depalletizer-machine-02-lp.jpg";
+$z[2][4]['text']="";
+$z[2][4]['width']="530";
+$z[2][4]['height']="450";
+$z[3]=Array("img"," /upload/allimg/170714/beverage-can-depalletizer-machine-03.jpg ",488,682);
+$z[3][4]['ddimg']="/upload/allimg/170714/beverage-can-depalletizer-machine-03-lp.jpg";
+$z[3][4]['text']="";
+$z[3][4]['width']="530";
+$z[3][4]['height']="450";
+
+?>

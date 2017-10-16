@@ -1,0 +1,47 @@
+<?php
+$z[0]=Array("global","",254,279);
+$z[0][4]['name']="cfg_webname";
+$z[1]=Array("global","",323,352);
+$z[1][4]['name']="cfg_description";
+$z[2]=Array("global","",389,415);
+$z[2][4]['name']="cfg_keywords";
+$z[3]=Array("include","",583,617);
+$z[3][4]['filename']="head.htm";
+$z[4]=Array("banner","\r\n<div class=\"about_banner\" style=\"background:url([field:pic/]) center top no-repeat;\"></div>\r\n",623,771);
+$z[4][4]['name']="about_banner";
+$z[4][4]['row']="1";
+$z[5]=Array("field","",829,857);
+$z[5][4]['name']="position";
+$z[6]=Array("type","[field:typename/]",947,995);
+$z[6][4]['typeid']="";
+$z[7]=Array("field","",1192,1245);
+$z[7][4]['name']="id";
+$z[7][4]['function']="get_image_list(@me)";
+$z[8]=Array("field","\r\n                              <li><img src=\"[field:imgsrc/]\"></li>\r\n                              ",1445,1605);
+$z[8][4]['name']="imgurls";
+$z[8][4]['alt']="图片输出区";
+$z[9]=Array("field","",1844,1863);
+$z[9][4]['name']="title";
+$z[10]=Array("field","",1931,1959);
+$z[10][4]['name']="product_number";
+$z[11]=Array("field","",2059,2084);
+$z[11][4]['name']="product_use";
+$z[12]=Array("field","",2156,2207);
+$z[12][4]['name']="capacity";
+$z[12][4]['function']="RepStr(@me)";
+$z[13]=Array("type","[field:typeurl/]",2413,2462);
+$z[13][4]['typeid']="41";
+$z[14]=Array("field","",3043,3061);
+$z[14][4]['name']="body";
+$z[15]=Array("field","",3128,3152);
+$z[15][4]['name']="parameters";
+$z[16]=Array("field","",3201,3227);
+$z[16][4]['name']="products_img";
+$z[17]=Array("field","",3276,3307);
+$z[17][4]['name']="products_download";
+$z[18]=Array("channel","\r\n				<li><a href=\"[field:typeurl/]\">[field:typename/]</a></li>\r\n                ",3491,3610);
+$z[18][4]['type']="son";
+$z[19]=Array("include","",3679,3715);
+$z[19][4]['filename']="footer.htm";
+
+?>

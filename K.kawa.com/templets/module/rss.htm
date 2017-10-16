@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="{gemel:global.cfg_soft_lang /}" ?>
+<rss version="2.0">
+<channel>
+<title>{gemel:field name='typename'/}</title>
+<link>{gemel:field name='typelink'/}</link>
+<description>{gemel:field name='title' function='html2text(@me)'/}</description>
+<language>zh-cn</language>
+<generator><![CDATA[{gemel:field name='powerby'/}]]></generator>
+<webmaster>{gemel:field name='adminemail'/}</webmaster>
+{gemel:rssitem}
+<item>
+    <title><![CDATA[[field:title/]]]></title>
+    <link>[field:fullurl/]</link>
+    <description><![CDATA[[field:description function='html2text(@me)'/]]]></description>
+    <pubDate>[field:stime/]</pubDate>
+    <category>[field:typename/]</category>
+    <author>[field:writer/]</author>
+    <comments>[field:source/]</comments>
+</item>
+{/gemel:rssitem}
+</channel>
+</rss>

@@ -1,0 +1,51 @@
+{gemel:include filename="head_art.htm"/}
+<body> 
+<!--nav begin -->
+{gemel:include filename="nav.htm"/}
+<!--nav end -->
+<!--News start-->
+<div class="news-banner">
+  <!--   <img src="{gemel:field.typepic/}" width="1600" height="400" alt="{gemel:field.seotitle /}" title="{gemel:field.seotitle /}" /> -->
+      <img src="/images/news/news-banner.jpg" title="Zhangjiagang Baiji Machinery Co., Ltd" alt="Zhangjiagang Baiji Machinery Co., Ltd" width="1600" height="400" />
+</div>
+  <h1 class="none">{gemel:field.typename/}</h1>
+<div class="bread-box">
+    <div class="bread  w1200">
+      <p>{gemel:field.position function=position_preg(@me)/} > <a href="javascript:void(0);">{gemel:field.title/}</a></p>
+    </div>
+</div>    
+<div class="w1200 news-detail"> 
+    
+        <div class="con-left">
+            <h1>{gemel:field.title/}</h1>
+            {gemel:field.body/}
+        </div>
+
+    <div class="con-right">
+        <h2>Latest information</h2>
+        <ul>
+             {gemel:arclist row='6' titlelen='100' orderby='pubdate' idlist='' }
+             <li>
+                 <p><a href="[field:arcurl/]" title="[field:title/]">[field:title/]</a></p>
+             </li>
+             {/gemel:arclist}
+        </ul>
+        <div class="view-more">
+             <a href="{gemel:type typeid=~typeid~}[field:typelink /]{/gemel:type}">View more</a>
+        </div>
+    </div> 
+    <div style="clear:both;height:0px;"></div>
+    <div class="subpage">
+      <ul>
+          <li class="pre">{gemel:prenext get='pre' sitelang='en'/}</li>
+          <li class="next">{gemel:prenext get='next' sitelang='en'/}</li>
+      </ul>
+    </div>  
+</div>   
+<!--News   end-->
+<!--footer  begin-->
+{gemel:include filename="footer.htm"/}
+
+<!--footer  end-->
+</body>
+</html>

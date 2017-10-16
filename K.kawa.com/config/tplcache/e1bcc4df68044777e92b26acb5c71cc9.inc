@@ -1,0 +1,1 @@
+<span class="gt_icon"><</span>[field:typename/]

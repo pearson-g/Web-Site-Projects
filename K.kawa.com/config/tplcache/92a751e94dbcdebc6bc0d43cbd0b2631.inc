@@ -1,0 +1,1 @@
+<span>{gemel:field name="typename"/}</span>

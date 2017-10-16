@@ -1,0 +1,1 @@
+<li><a href='{gemel:field name='typeurl'/}' class='{gemel:field.currentstyle/}'><span class="gt_icon {gemel:field.currentstyle/}"><</span>{gemel:field name='typename'/}</a></li>

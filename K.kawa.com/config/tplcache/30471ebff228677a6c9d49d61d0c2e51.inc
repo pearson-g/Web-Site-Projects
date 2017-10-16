@@ -1,0 +1,1 @@
+/images/products/acrylic-globe-lampshade-index.jpg

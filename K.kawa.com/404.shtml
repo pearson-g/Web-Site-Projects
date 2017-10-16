@@ -1,0 +1,86 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="refresh" content="7;url=/">
+<title>404 Error</title>
+<style type="text/css">
+	body,p,div,h1,h2,h3,h4{margin:0;padding:0;font-family:tahoma, "Microsoft YaHei","Arial Unicode MS",Mingliu,Arial,Helvetica;}
+	body {
+	  color:#454545;
+	}
+	p {margin:10px 0;font-size:20px;}
+	a, .link {
+	  color:#900;
+	  text-decoration:none;
+	  padding-top:20px;
+	}
+	a:hover, .link:hover {
+	  color:#ff6600;
+	  text-decoration:underline;
+	}
+	.f-tit {
+	  font-weight:400;
+	  font-size:38px;
+	}
+	.f-tit span{
+		color:#f60;
+	}
+	.page404{
+		height:350px;
+		margin:10px auto;
+		padding:60px 0 10px 0;
+		width:540px;
+	}
+	.handle{
+		border-top:1px #ccc dashed;
+		margin-top:30px;
+		padding:30px 0;
+	}
+	.box_404{width:556px;height:155px;margin:0 auto;padding:140px 0px 20px 0px;}
+	.box_404 .box{float:left;}
+	.box_404 .box1{-webkit-animation:box1 2s 1 ease-in-out; animation:box1 2s 1 ease-in-out;}
+	.box_404 .box2{-webkit-animation:box2 4s 1 2s ease-in-out; animation:box2 4s 1 2s ease-in-out;}
+	/*-------------------keyframes---------------------------*/
+	@-webkit-keyframes box1 {
+		0% {transform: scale(0.2);}
+		25% {transform: scale(1);}
+		50% {transform: scale(1.8);}
+		100% {transform: scale(1);}
+	}
+	@keyframes box1 {
+		0% {transform: scale(0.2);}
+		25% {transform: scale(1);}
+		50% {transform: scale(1.8);}
+		100% {transform: scale(1);}
+	}
+	@-webkit-keyframes box2 {
+		0% {transform: translateY(-280px) translateX(120px);}
+		25%{transform: translateY(-80px) translateX(120px);}
+		50%{transform: translateY(-100px) translateX(120px);}
+		100% {transform: translateY(0px) translateX(0px);}
+	}
+	@keyframes box2 {
+		0% {transform: translateY(-280px) translateX(120px);}
+		25%{transform: translateY(-80px) translateX(120px);}
+		50%{transform: translateY(-100px) translateX(120px);}
+		100% {transform: translateY(0px) translateX(0px);}
+	}
+</style>
+</head>
+<body style="background:#f2f3f4;font:14px/1.5">
+<div class="box_404">
+      <div class="box box1"><img src="/images/404-01.png" width="108" height="155"/></div>
+      <div class="box box2"><img src="/images/404-02.png" width="115" height="155"/></div>
+      <div class="box box3"><img src="/images/404-03.png" width="102" height="155"/></div>
+</div>
+<div class="page404">
+    <h1 class="f-tit"><span>Did not find the page!</span> </h1>
+    <p>Is for you to jump to the page....</p>
+    <p><a href="/">Back Home >>></a></p>
+    </div>
+</div>
+
+
+</body>
+</html>

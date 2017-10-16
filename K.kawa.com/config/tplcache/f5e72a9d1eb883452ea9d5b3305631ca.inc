@@ -1,0 +1,1 @@
+<li><img src="{gemel:field type='typepic'/}" width="121" height="91" alt="{gemel:field type='typename'/}" title="{gemel:field type='typename'/}" /></li>

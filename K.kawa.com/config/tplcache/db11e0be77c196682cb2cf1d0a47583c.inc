@@ -1,0 +1,1 @@
+<li class="current"><img src="{gemel:field type='typepic'}" width="121" height="91" alt="我们的历程" title="我们的历程" /></li>

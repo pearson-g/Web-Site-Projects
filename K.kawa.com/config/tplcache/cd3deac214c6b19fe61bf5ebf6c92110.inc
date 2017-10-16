@@ -1,0 +1,1 @@
+<a href="[field:typelink/]"  class="select" style="color:red;">[field:typename/]</a>

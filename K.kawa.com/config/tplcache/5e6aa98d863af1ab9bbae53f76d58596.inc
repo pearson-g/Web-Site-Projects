@@ -1,0 +1,1 @@
+<li>{gemel:field name='typename'/}</li>

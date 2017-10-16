@@ -1,0 +1,1 @@
+<a href="[field:typeurl/]">加盟首页</a>

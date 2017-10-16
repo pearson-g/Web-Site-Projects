@@ -1,0 +1,1 @@
+INSERT INTO `gemel_homepageset` VALUES('gemelsoft/index.htm','../index.html','1');

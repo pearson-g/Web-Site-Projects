@@ -1,0 +1,40 @@
+<?php
+$z[0]=Array("global","",278,306);
+$z[0][4]['name']="cfg_keywords";
+$z[1]=Array("global","",345,376);
+$z[1][4]['name']="cfg_description";
+$z[2]=Array("global","",794,821);
+$z[2][4]['name']="cfg_webname";
+$z[3]=Array("include","",1537,1572);
+$z[3][4]['filename']="nav.htm";
+$z[4]=Array("global","",3677,3704);
+$z[4][4]['name']="cfg_webname";
+$z[5]=Array("type","\r\n			<li>\r\n				<div class=\"img-box\">\r\n				   [field:content/]\r\n				   <a href=\"[field:typelink/]\"></a>\r\n				</div>\r\n				<h3><a href=\"[field:typelink/]\">[field:typename/]</a></h3>\r\n			</li>\r\n			",4188,4417);
+$z[5][4]['typeid']="2";
+$z[6]=Array("type","\r\n			<li>\r\n				<div class=\"img-box\">\r\n				   [field:content/]\r\n				   <a href=\"[field:typelink/]\"></a>\r\n				</div>\r\n				<h3><a href=\"[field:typelink/]\">[field:typename/]</a></h3>\r\n			</li>\r\n			",4422,4651);
+$z[6][4]['typeid']="4";
+$z[7]=Array("type","\r\n			<li>\r\n				<div class=\"img-box\">\r\n				   [field:content/]\r\n				   <a href=\"[field:typelink/]\"></a>\r\n				</div>\r\n				<h3><a href=\"[field:typelink/]\">[field:typename/]</a></h3>\r\n			</li>\r\n			",4656,4886);
+$z[7][4]['typeid']="13";
+$z[8]=Array("global","",5064,5091);
+$z[8][4]['name']="cfg_webname";
+$z[9]=Array("global","",5098,5125);
+$z[9][4]['name']="cfg_webname";
+$z[10]=Array("global","",5295,5322);
+$z[10][4]['name']="cfg_webname";
+$z[11]=Array("global","",5329,5356);
+$z[11][4]['name']="cfg_webname";
+$z[12]=Array("arclist","\r\n					<li>\r\n						<div class=\"img\">\r\n							<a href=\"[field:arcurl/]\"><img src=\"[field:index_img/]\" title=\"[field:title/]\" alt=\"[field:title/]\" width=\"333\" height=\"220\"/></a>\r\n							<p>2016-12-07</p>\r\n						</div>\r\n						<div class=\"text\">\r\n							<h4><a href=\"[field:arcurl/]\">[field:title/]</a></h4>\r\n							<p><p>[field:description function='cn_substrR(html2text(@me),100)'/]..</p></p>\r\n							<a href=\"[field:arcurl/]\">readmore</a>\r\n						</div>\r\n					</li>\r\n                    ",6684,7287);
+$z[12][4]['orderby']="weight";
+$z[12][4]['typeid']="8";
+$z[12][4]['titlelen']="180";
+$z[12][4]['row']="5";
+$z[12][4]['addfields']="index_img";
+$z[12][4]['channelid']="1";
+$z[13]=Array("global","",7413,7440);
+$z[13][4]['name']="cfg_webname";
+$z[14]=Array("global","",7447,7474);
+$z[14][4]['name']="cfg_webname";
+$z[15]=Array("include","",9280,9318);
+$z[15][4]['filename']="footer.htm";
+
+?>

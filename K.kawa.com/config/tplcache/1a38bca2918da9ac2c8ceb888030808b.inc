@@ -1,0 +1,1 @@
+<li class="pro_on"><img src="[field:litpic/]" width="73" height="45" title="Plastic Case TFT LCD Monitor" alt="Plastic Case TFT LCD Monitor" /></li>

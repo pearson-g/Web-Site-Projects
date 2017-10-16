@@ -1,0 +1,1 @@
+<li><a href="#"><img src="[field:litpic/]" width="448" height="275" title="Plastic Case TFT LCD Monitor" alt="Plastic Case TFT LCD Monitor" /></a></li>

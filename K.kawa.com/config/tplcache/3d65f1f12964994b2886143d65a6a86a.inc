@@ -1,0 +1,10 @@
+{gemel:pagestyle maxwidth='800' pagepicnum='' ddmaxwidth='200' row='100' col='100' value='3'/}
+{gemel:img ddimg='/upload/allimg/150129/screw-cover-m-01-lp.jpg' text='' width='990' height='454'} /upload/allimg/150129/screw-cover-m-01.jpg {/gemel:img}
+{gemel:img ddimg='/upload/allimg/150129/screw-cover-m-02-lp.jpg' text='' width='990' height='454'} /upload/allimg/150129/screw-cover-m-02.jpg {/gemel:img}
+{gemel:img ddimg='/upload/allimg/150129/screw-cover-m-03-lp.jpg' text='' width='990' height='454'} /upload/allimg/150129/screw-cover-m-03.jpg {/gemel:img}
+{gemel:img ddimg='/upload/allimg/150129/screw-cover-m-04-lp.jpg' text='' width='990' height='454'} /upload/allimg/150129/screw-cover-m-04.jpg {/gemel:img}
+{gemel:img ddimg='/upload/allimg/150129/screw-cover-m-05-lp.jpg' text='' width='990' height='454'} /upload/allimg/150129/screw-cover-m-05.jpg {/gemel:img}
+{gemel:img ddimg='/upload/allimg/150129/screw-cover-m-06-lp.jpg' text='' width='990' height='454'} /upload/allimg/150129/screw-cover-m-06.jpg {/gemel:img}
+{gemel:img ddimg='/upload/allimg/150129/screw-cover-m-07-lp.jpg' text='' width='990' height='454'} /upload/allimg/150129/screw-cover-m-07.jpg {/gemel:img}
+{gemel:img ddimg='/upload/allimg/150129/screw-cover-m-08-lp.jpg' text='' width='990' height='454'} /upload/allimg/150129/screw-cover-m-08.jpg {/gemel:img}
+{gemel:img ddimg='/upload/allimg/150129/screw-cover-m-09-lp.jpg' text='' width='990' height='454'} /upload/allimg/150129/screw-cover-m-09.jpg {/gemel:img}

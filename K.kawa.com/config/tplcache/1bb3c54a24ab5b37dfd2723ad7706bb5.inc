@@ -1,0 +1,5 @@
+{gemel:pagestyle maxwidth='800' pagepicnum='' ddmaxwidth='200' row='100' col='100' value='3'/}
+{gemel:img ddimg='/upload/allimg/140620/1-1406201I432-lp.jpg' text='' width='734' height='321'} /upload/allimg/140620/1-1406201I432.jpg {/gemel:img}
+{gemel:img ddimg='/upload/allimg/140620/1-1406201I435-lp.jpg' text='' width='734' height='321'} /upload/allimg/140620/1-1406201I435.jpg {/gemel:img}
+{gemel:img ddimg='/upload/allimg/140620/1-1406201I439-lp.jpg' text='' width='734' height='321'} /upload/allimg/140620/1-1406201I439.jpg {/gemel:img}
+{gemel:img ddimg='/upload/allimg/140620/1-1406201I442-lp.jpg' text='' width='734' height='321'} /upload/allimg/140620/1-1406201I442.jpg {/gemel:img}

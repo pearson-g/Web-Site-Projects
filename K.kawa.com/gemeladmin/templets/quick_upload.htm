@@ -1,0 +1,52 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=<?php echo $cfg_soft_lang; ?>">
+<title>产品批量上传</title>
+<link href="css/base.css" rel="stylesheet" type='text/css'>
+</head>
+<body background='images/allbg.gif' leftmargin='8' topmargin='8'>
+<table width="100%" border="0" align="center" cellpadding="3" cellspacing="1" bgcolor="#ccc">
+  <tr>
+    <td height="24" background="images/tbg.gif" style="padding-left:10px;">
+      <div style="float:left">
+        <b>产品批量上传</b>
+      </div>
+  </td>
+</tr>
+<tr>
+   <td height="30" align="center" bgcolor="#F9FCFD"> 
+   	  <form action="quick_upload.php" name="form1" method="post" enctype="multipart/form-data">
+      <input type="hidden" name="dopost" value="upload" />
+	  <table border="0" cellspacing="0" cellpadding="3">
+         <tr>
+          <td>选择文件：</td>
+          <td><input type="file" name="up_file" style="width:250px" value="" /></td>
+          <td><input name="imageField" class="np" type="image" src="images/button_ok.gif" border="0" /></td>
+      	</tr>
+      </table>
+	  </form>
+    </td>
+</tr>
+<tr>
+   <td height="30" align="center" bgcolor="#F9FCFD"> 
+	  <table border="0" cellspacing="1" cellpadding="5" width="60%" bgcolor="#F9FCFD">
+      	<tr>
+          <td width="20%" align="left">&nbsp;</td>    
+          <td align="left"><strong>上传说明:</strong></td>        
+      	</tr>
+         <tr>
+          <td width="20%" align="left">&nbsp;</td>    
+          <td align="left">
+          	1. 请选择.xls / .xlsx 格式文件上传,如果文件正在使用其它软件打开,请关闭后再上传<br/>
+          	2. 文档里的图片或文件直接填写文件名和扩展名就可以了,不需要填写路径<br/>
+            3. 批量上传成功后,将文档里包含的图片或文件通过FTP上传到根目录的upload/quick目录下
+          </td>        
+      	</tr>
+      </table>
+    </td>
+</tr>
+
+</table>
+</body>
+</html>

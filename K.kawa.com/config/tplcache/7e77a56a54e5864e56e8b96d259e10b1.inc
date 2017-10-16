@@ -1,0 +1,1 @@
+<h4><a href="[field:typelink/]" class="hot">[field:typename/]</a></h4>

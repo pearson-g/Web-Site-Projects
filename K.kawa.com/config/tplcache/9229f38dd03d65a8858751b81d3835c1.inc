@@ -1,0 +1,1 @@
+<a class="top_blog" href="[field:typeurl/]">[field:typename/]</a>

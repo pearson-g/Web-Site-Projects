@@ -1,0 +1,1 @@
+<a href='{gemel:field.typeurl/}'><img src='{gemel:field.typepic/}' alt='{gemel:field.typename/}' title='{gemel:field.typename/}' width='88' height='88' /><span>{gemel:field.typename/}</span></a>

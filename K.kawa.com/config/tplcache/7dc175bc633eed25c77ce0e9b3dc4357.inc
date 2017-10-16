@@ -1,0 +1,2 @@
+<h3 style="text-align:center"><a href="[field:typeurl/]">[field:typename/]</a></h3>
+            <img src="[field:typepic/]" width="203" height="182" title="[field:typename/]" alt="[field:typename/]" />

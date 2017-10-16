@@ -1,0 +1,74 @@
+{gemel:include filename="head_art.htm"/}
+<body>
+<!--nav begin -->
+{gemel:include filename="nav.htm"/}
+<!--nav end --> 
+<!-- email start-->
+<form name="form" id="form2" method="post" action="http://www.jftlighting.com/kava/sendmessages.php">
+<input type="hidden" name="add" value="1" />
+<input type="hidden" name="href" id="href" value="" />	
+<div class="w1200 email-box">
+	 
+	  	    <div class="email-pro-list">
+	  	    	  <ul class="clear">
+	  	    	  	{gemel:php} 
+			  	    $sql = "SELECT arc.*,tp.typedir,tp.typename,
+                       tp.namerule,tp.namerule2,tp.moresite,tp.siteurl,tp.sitepath
+                       $addField
+                       FROM `#@__archives` arc LEFT JOIN `#@__arctype` tp ON arc.typeid=tp.id
+                       $addJoin
+                       WHERE arc.id in($aa)";
+			  	    $dsql->SetQuery($sql);
+			  	    $dsql->Execute('aaa');
+			  	    while($row=$dsql->GetArray("aaa"))
+					{
+					 $row['filename'] = $row['arcurl'] = GetFileUrl($row['id'],$row['typeid'],$row['senddate'],$row['title'],$row['ismake'],$row['arcrank'],$row['namerule'],$row['typedir'],$row['money'],$row['filename'],$row['moresite'],$row['siteurl'],$row['sitepath']);
+					 echo "<li>
+                   	 		<a href='".$row['arcurl']."'><img src='".$row['litpic']."' title='".$row['title']."-".$row['typename']."' alt='".$row['title']."-".$row['typename']."' width='298' height='274'  /></a>
+                   	 		 <h3><a href='".$row['arcurl']."'>".$row['title']."</a></h3>
+                   	 		 <p><a href='".$row['arcurl']."'>READMORE</a></p>
+                   	 		 <!-- <i class='del'></i> -->
+                            <input type='hidden' name='product-title[]' value='".$row['title']."' />
+                   	</li>";                   
+					}
+					{/gemel:php}	  	    	  	  
+	  	    	  </ul>
+	  	    </div>
+	  	    <div class="send-box">
+	  	    	  <div class="send clear">
+	  	    	  	    <input type="text" name="contact-person" id="contact-person" class="contact-person" value="Contact Person:" onfocus="if(this.value == 'Contact Person:'){this.value = '';}" onblur="if(this.value == ''){this.value = 'Contact Person:';}" />
+	  	    	  	    <input type="text" name="email" id="email" class="email" value="Email Address:*" onfocus="if(this.value == 'Email Address:*'){this.value = '';}" onblur="if(this.value == ''){this.value = 'Email Address:*';}" />
+	  	    	  </div>
+		          <div class="send clear">
+		          	    <input type="text" name="company" id="company" class="company" value="Company:" onfocus="if(this.value == 'Company:'){this.value = '';}" onblur="if(this.value == ''){this.value = 'Company:';}" />
+		          	    <input type="text" name="phone" id="phone" class="phone" value="Phone:" onfocus="if(this.value == 'Phone:'){this.value = '';}" onblur="if(this.value == ''){this.value = 'Phone:';}" />
+		          </div>
+		          <div class="send clear">
+		          	    <input type="text" name="fax" id="fax" class="fax" value="Fax:" onfocus="if(this.value == 'Fax:'){this.value = '';}" onblur="if(this.value == ''){this.value = 'Fax:';}"/>
+		          	    <textarea name="address" id="address" value="Address:" class="address" style="font-family:Arial, Helvetica, sans-serif;" onfocus="if(this.value == 'Address:'){this.value = '';}" onblur="if(this.value == ''){this.value = 'Address:';}">Address:</textarea> 
+		          	    <input type="text" name="subject" id="subject" class="subject" value="Subject:*" onfocus="if(this.value == 'Subject:*'){this.value = '';}" onblur="if(this.value == ''){this.value = 'Subject:*';}" />
+		          </div>	
+		          <textarea name="content" id="content" value="Content:*" class="content" style="font-family:Arial, Helvetica, sans-serif;" onfocus="if(this.value == 'Content:*'){this.value = '';}" onblur="if(this.value == ''){this.value = 'Content:*';}">Content:*</textarea>	 
+		          <p><a href="" id="goback"><span>BACK</span></a><span id="form-submit" class="submit">SUBMIT</span> </p>   
+	  	    </div>
+	  
+</div>
+</form>
+<!-- email end-->
+<!-- footer  start -->
+{gemel:include filename="footer.htm"/}
+<script type="text/javascript">
+	$(function(){
+		var List=$(".email-box ul li"),href=$("#href").val();
+        $("#goback").attr('href',href);
+		List.each(function(i){
+			var delButton=$(this).find(".del");
+			delButton.click(function(){
+               List.eq(i).remove();
+			})
+		})
+	})
+</script>
+<!-- footer  end -->
+</body>
+</html>

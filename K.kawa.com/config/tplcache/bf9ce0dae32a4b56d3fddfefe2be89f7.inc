@@ -1,0 +1,1 @@
+<a href="[field:typeurl/]">《用户协议》</a>

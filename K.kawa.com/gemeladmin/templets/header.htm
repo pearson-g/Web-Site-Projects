@@ -1,0 +1,64 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>政元软件</title>
+<link href="css/header.css" rel="stylesheet" type="text/css" />
+<script src="js/jquery-1.4.4.min.js"></script>
+<script language="javascript">
+function JumpFrame(url1, url2){
+	window.parent.frames['menu-frame'].location=url1;
+	window.parent.frames['main'].location=url2;
+}
+</script>
+<script type="text/javascript">
+$(function(){
+	$(".top_menu ul li").click(function(){
+		$(this).addClass("on").siblings().removeClass("on");
+		$(this).children("a").addClass("bg_on");
+		$(this).siblings().children("a").removeClass("bg_on");
+		})
+	})
+</script>
+</head>
+<body>
+<div class="head">
+  <div class="top">
+  	<div class="top_over">
+        <div class="top_logo">
+            <a href="http://www.yingxiaoli.com/" target="_blank" title="<?php echo $cfg_softname." ".$cfg_version; ?>"><?php echo $cfg_softname." ".$cfg_version; ?></a>
+        </div>
+        <div class="gohome">
+            <div class="top_welcome">您好：<span><?php echo $cuserLogin->getUserName(); ?></span>，欢迎使用<?php echo $cfg_softname; ?>！</div>
+            <a class="gohome_1" href="../index.php?upcache=1" target="_blank">网站首页</a>
+            <a class="gohome_2" href="exit.php">退出登录</a>
+        </div>
+        <div class="top_box">
+            <div class="top_menu">
+                <ul>
+                    <?php if($open_content){ ?>
+                    <li class="on"><a href="javascript:void(0)" onclick="JumpFrame('xmenu2.php','index_body.php');" class="ico1 bg_on">内容管理</a></li>
+                    <?php } if($open_category){ ?>
+                    <li><a href="javascript:void(0)" onclick="JumpFrame('xmenu3.php','catalog_main.php');" class="ico2">栏目分类</a></li>
+                    <?php } if($open_html){?>
+                    <li><a href="javascript:void(0)" onclick="JumpFrame('xmenu4.php','makehtml_all.php');" class="ico3">网站更新</a></li>
+                    <?php } if($open_templets){?>
+                    <li><a href="javascript:void(0)" onclick="JumpFrame('xmenu5.php','templets_main.php');" class="ico4">界面模板</a></li>
+                    <?php } if($open_collection){ ?>
+                    <li><a href="javascript:void(0)" onclick="JumpFrame('xmenu6.php','co_main.php');" class="ico5">采集管理</a></li>
+                    <?php } if($open_member){ ?>
+                    <li><a href="javascript:void(0)" onclick="JumpFrame('xmenu7.php','member_main.php');" class="ico6">会员管理</a></li>
+                    <?php } if($open_module){ ?>
+                    <li><a href="javascript:void(0)" onclick="JumpFrame('xmenu9.php','mychannel_main.php');" class="ico7">模块配置</a></li>
+                    <?php } if($open_config){ ?>
+                    <li><a href="javascript:void(0)" onclick="JumpFrame('xmenu8.php','sys_info.php');" class="ico8">系统设置</a></li>
+                    <?php } ?>
+                </ul>
+            </div>
+        </div>
+	</div>	  		      
+  </div>
+</div>
+</div>
+</body>
+</html>

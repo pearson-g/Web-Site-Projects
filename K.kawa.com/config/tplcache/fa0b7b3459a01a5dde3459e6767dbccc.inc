@@ -1,0 +1,1 @@
+<p><a href="[field:arcurl/]">[field:title/]</a><br/><span>{gemel:field name=’pubdate’ function=’strftime(“%Y-%m-%d %H:%M:%S”,”@me”)’ /}</span></p>

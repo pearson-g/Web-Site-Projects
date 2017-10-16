@@ -1,0 +1,1 @@
+INSERT INTO `gemel_co_onepage` VALUES('5','http://www.yingxiaoli.com','政元软件','1','gb2312','<div class=\"content\">{@body}</div>');

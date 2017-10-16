@@ -1,0 +1,1 @@
+<p><a href="[field:arcurl/]">[field:shorttitle/]</a></p>

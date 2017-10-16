@@ -1,0 +1,1 @@
+<a href='{gemel:field name='typeurl'/}' class='{gemel:field.currentstyle/}'>{gemel:global name=itemindex runphp="yes"}@me=@me;{/gemel:global}</a>

@@ -1,0 +1,1 @@
+<a href="[field:typeurl/]" class="more_index">+更多</a>

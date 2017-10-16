@@ -1,0 +1,1 @@
+<a href="[field:typeurl/]" class="top_news">[field:typename/]</a>

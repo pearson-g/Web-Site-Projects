@@ -1,0 +1,93 @@
+{gemel:include filename="head_list.htm"/}
+
+<body style="background-color: #f5f5f5;">
+    <!--nav begin -->
+    {gemel:include filename="nav.htm"/}
+    <!--nav end -->
+ 
+    <h1 class="none">{gemel:global.cfg_keywords/}</h1>
+    <div class="bread-box">
+        <div class="bread w1200">
+            <p>Your are here:&nbsp;{gemel:field.position function=position_preg(@me)/}></p>
+        </div>
+    </div>
+    <a id="for-here" name="for-here"></a>
+    <!--product-list start-->
+    <div class="pro-box w1200 clear">
+
+        <div class="pro-categories">
+            <h2>Product Categories</h2>
+            <ul>
+              {gemel:channelartlist typeid='5,6,7,8,9,10,11,12,13,14'}
+            <li><a href="{gemel:field.typeurl/}">{gemel:field.typename/} <i>&nbsp;</i> </a></li>
+            {/gemel:channelartlist}
+            </ul> 
+        </div>
+        <div class="pro-main">
+            <div class="pro-top clear">
+                <div class="search">
+                <form action="/search/index.php" method="get" id="form1">
+                    <input name="keyword" id="keyword" type="text" value="Search.." onfocus="if(this.value == 'Search..'){this.value = '';}" onblur="if(this.value == ''){this.value = 'Search..';}" class="flow-input">
+                    <input type="submit" class="flow-btn" value="">
+                </form>
+                
+            </div>
+           <h3>Search for Your Demand</h3>
+            </div>
+            <div class="pro-content-02">
+                <ul class="clear">
+                {gemel:list orderby='weight' pagesize='9' titlelen='100'}
+                    <li><a href="[field:arcurl/]"><img src="[field:litpic/]" width="220" height="220" alt="[field:title/] - [field:typename/]" title="[field:title/] - [field:typename/]"><p>[field:title/]</p></a><p><i><input type="checkbox" name="list[]" value="[field:id/]" class="hidden" /></i><em><a href="/search/email.php?flag=true&sendlist=[field:id/]">&nbsp;</a></em></p></li>
+                    {/gemel:list}
+                  
+               
+                </ul>
+                 <div class="page">
+            <ul>
+                {gemel:pagelist listitem="index,end,pageno" listsize="4" sitelang='en' /}
+            </ul>
+        </div>
+            </div>
+        </div>
+       
+       
+    </div>
+    </div>
+    <div class="sendbox clear">
+     <div class="close-send">X</div>
+     <p>Count(<span class="num-basket">0</span>)</p>
+     <div class="send-list">
+       <form name="sendemail" id="sendemail" action="/search/email.php" method="post">
+          <input type="hidden" name="flag" id="flag" value="true"/>
+          <input type="hidden" name="sendlist" id="sendlist" value=""/>
+          <ul>
+              
+          </ul>
+       </form>     
+     </div>
+     <div class="send-button"><em>&nbsp;</em></div>
+     <div class="clear-all">Clear All</div>
+</div>
+  <div class="list-side">
+        <div class="sidebar">
+            <em>&nbsp;</em>
+            <div class="side-categories">
+                <span>X</span>
+                <h2>Product Categories</h2>
+                <ul>
+                    {gemel:channelartlist typeid='2'}
+                    <li><a href="{gemel:field.typeurl/}">{gemel:field.typename/}<i>&nbsp;</i></a></li>
+                    {/gemel:channelartlist}
+                </ul>
+            </div>
+        </div>
+    </div>
+    <!--products  end-->
+    <!-- footer  begin -->
+    {gemel:include filename="footer.htm"/}
+    <!-- footer  end -->
+     
+
+</body>
+
+</html>

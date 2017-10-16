@@ -1,0 +1,40 @@
+<?php
+$z[0]=Array("channeltitle","",254,306);
+$z[0][4]['order']="backward";
+$z[0][4]['character']="_";
+$z[1]=Array("global","",307,334);
+$z[1][4]['name']="cfg_webname";
+$z[2]=Array("field","",378,411);
+$z[2][4]['name']="description";
+$z[3]=Array("field","",448,478);
+$z[3][4]['name']="keywords";
+$z[4]=Array("include","",1092,1128);
+$z[4][4]['filename']="head.htm";
+$z[5]=Array("field","",1171,1222);
+$z[5][4]['name']="position";
+$z[5][4]['function']="position_preg(@me)";
+$z[6]=Array("type","[field:typename/]",1401,1453);
+$z[6][4]['typeid']="";
+$z[7]=Array("field","",1483,1509);
+$z[7][4]['name']="description";
+$z[8]=Array("arclist","\r\n                            <li><a href=\"javascript:viod(0);\"><img src=\"[field:litpic/]\" width=\"448\" height=\"275\" title=\"{gemel:field.typename/}\" alt=\"{gemel:field.typename/}\" /></a></li>\r\n                            ",1683,1967);
+$z[8][4]['orderby']="weight";
+$z[8][4]['row']="8";
+$z[8][4]['flag']="f";
+$z[9]=Array("arclist","\r\n                        <li><img src=\"[field:litpic/]\" width=\"73\" height=\"45\" title=\"{gemel:field.typename/}\" alt=\"{gemel:field.typename/}\" /></li>\r\n                        ",2200,2440);
+$z[9][4]['orderby']="weight";
+$z[9][4]['row']="8";
+$z[9][4]['flag']="f";
+$z[10]=Array("type","[field:typename/]",2770,2822);
+$z[10][4]['typeid']="";
+$z[11]=Array("arclist","\r\n                        <a href=\"javascript:viod(0);\">[field:title/]</a>\r\n                        ",3529,3686);
+$z[11][4]['orderby']="weight";
+$z[11][4]['row']="20";
+$z[12]=Array("field","",6148,6170);
+$z[12][4]['name']="content";
+$z[13]=Array("include","",6817,6857);
+$z[13][4]['filename']="pro_menu.htm";
+$z[14]=Array("include","",6859,6897);
+$z[14][4]['filename']="footer.htm";
+
+?>

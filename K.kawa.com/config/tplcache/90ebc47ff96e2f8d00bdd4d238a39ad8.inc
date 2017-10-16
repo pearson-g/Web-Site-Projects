@@ -1,0 +1,21 @@
+{gemel:field name='keywords'}站长之家, Cookie, Cookie跟踪{/gemel:field}
+{gemel:field name='description'}很多人最近都有类似经历：你在淘宝搜了某件商品，然后你又在微博右边热门商品推荐都发现了他们。微博和淘宝账号打通只是一个方面，因为你还会在其他打开网页中发现这些广告{/gemel:field}
+{gemel:field name='title'}Cookie时代即将终结！互联网广告行业最担心的事情终于来了{/gemel:field}
+{gemel:field name='writer'}{/gemel:field}
+{gemel:field name='source'}{/gemel:field}
+{gemel:field name='body'}<p style="text-align:center;">          </p>
+                                                            <p style="text-align: center;"><img src="/upload/allimg/c131015/13QR14X1CZ-2O00.jpg" border="0" alt="114319m2pgko5iuueaddff" /></p>
+<p>很多人最近都有类似经历：你在淘宝搜了某件商品，然后你又在微博右边热门商品推荐都发现了他们。微博和淘宝账号打通只是一个方面，因为你还会在其他打开网页中发现这些广告，这其中涉及到四方势力：商家，广告运营商，浏览器厂商以及用户的Cookie。</p>
+<p>今年央视315晚会一闹，给全国网民普及了什么叫Cookie，以及有哪些公司在把用户的个人隐私数据出售给广告运营商。特善于借势的360在第二天就站出来说360安全浏览器响应万维网联盟W3C针对网络隐私问题制定的&ldquo;禁止追踪DNT（Do Not Track）&rdquo;协议，这个标准禁止广告商在用户的机器上种植Cookie，周鸿祎说要借此革掉搜索现有商业模式的命。</p>
+<p>其实周鸿祎没说全，&ldquo;禁止追踪&rdquo;标准影响的可远不止搜索（这里特指基于跟踪用户和竞价排名的，非关键词检索），这个功能几乎影响了所有以精准营销为导向的广告公司及网络媒体等。比如会将你的历史记录和cookie卖给商家盈利的浏览器，以精准营销、行为定向为方向的整个互联网广告行业，包括百度联盟和阿里妈妈这类的广告联盟，包括易传媒、MediaV、品友互动这些广告技术公司。</p>
+<p>W3C开始提出DNT草案时曾遭到美国广告界一致反对，因为草案一旦实行，互联网广告业现在的一切都要推倒重来，比如雅虎就已经跳出来指责微软将DNT协议作为IE10的默认设置的行为扼杀了大部分用户的使用体验。其实雅虎的潜台词是，你丫是卖产品的说禁止就禁止倒很轻松，但兄弟还要继续靠卖广告活下去啊。</p>
+<p>但现在看来Cookie时代终结这一天正在提前到来：</p>
+<p>2012年10月，W3C发布&ldquo;禁止跟踪&rdquo;（DNT）标准草案。</p>
+<p>2012年10月，微软宣布支持DNT标准，IE10将启用DNT协议作为默认设置；</p>
+<p>2012年11月，谷歌宣布支持DNT标准；</p>
+<p>2013年9月，BussinessInsider报道谷歌目前正在开发一种名为AdID的匿名追踪技术，旨在取代第三方Cookie，从而能够更好地追踪用户在网上的行为。</p>
+<p>2013年10月，微软将开发跨PC、移动和Xbox跟踪技术，微软发言人表示，&ldquo;我们认为放弃cookie很重要。我们优先考虑的问题是，在尊重消费者权益的情况下采用cookie之外的其他技术。&rdquo;</p>
+<p>另外，苹果的Safari浏览器和开源的火狐浏览器已经可以阻止cookie，Facebook和亚马逊也都有针对第三方Cookie的计划。</p>
+<p>现在巨头都开始建立自己的信息收集标准以取代Cookie，但过多的边界和壁垒显然不利于互联网行业的发展，下面可能又是一轮标准战。额，在最终的标准确定之前，做流量批发生意的会从中获得更大好处，比如卖关键词的搜索引擎和卖固定位置的导航站，百度和hao123们的价值将会再次提升。</p>{/gemel:field}
+{gemel:field name='pubdate'}{/gemel:field}
+{gemel:field name='litpic'}/upload/allimg/c131015/13QR14X1CZ-2O00_lit.jpg{/gemel:field}

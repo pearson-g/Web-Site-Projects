@@ -1,0 +1,1 @@
+<a href="[field:typeurl/]"><img src="/templets/style/images/contact.jpg" /></a>

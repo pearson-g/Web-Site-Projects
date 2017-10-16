@@ -1,0 +1,1 @@
+<h3><a href="{gemel:field.typeurl/}" class="{gemel:field.body/}">{gemel:field.typename/}</a></h3>

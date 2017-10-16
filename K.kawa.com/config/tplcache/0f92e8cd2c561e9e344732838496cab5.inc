@@ -1,0 +1,1 @@
+/images/products/straight-drawing-machine-related.jpg

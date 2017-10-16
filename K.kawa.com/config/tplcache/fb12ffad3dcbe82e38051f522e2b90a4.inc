@@ -1,0 +1,1 @@
+<a href="[filed.typeurl/]">SITEMAP</a>

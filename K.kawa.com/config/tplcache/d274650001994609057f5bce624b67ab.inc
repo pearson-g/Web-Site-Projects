@@ -1,0 +1,1 @@
+<a href="[file:typelink/]" class="index_questions"></a>

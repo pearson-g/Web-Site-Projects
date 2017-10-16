@@ -1,0 +1,5 @@
+单页文档调用标签
+>>gemel>>
+{gemel:likespage row=''/}
+>>gemel>>
+row = '' 调用条数

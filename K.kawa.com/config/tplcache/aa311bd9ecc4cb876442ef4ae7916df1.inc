@@ -1,0 +1,1 @@
+<p><a href="[field:arcurl/]">[field:title/]</a><br/><span>{gemel:field.pubdate function="MyDate('Y-m-d',@me)"/}</span></p>

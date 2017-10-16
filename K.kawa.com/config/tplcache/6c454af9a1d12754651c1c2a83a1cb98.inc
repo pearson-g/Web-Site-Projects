@@ -1,0 +1,1 @@
+<a href="[field:arcurl/]" class="indexpro_c">[field:title/]</a>

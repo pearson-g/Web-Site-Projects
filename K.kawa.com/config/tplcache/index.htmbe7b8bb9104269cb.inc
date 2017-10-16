@@ -1,0 +1,41 @@
+<?php
+$z[0]=Array("global","",278,306);
+$z[0][4]['name']="cfg_keywords";
+$z[1]=Array("global","",345,376);
+$z[1][4]['name']="cfg_description";
+$z[2]=Array("global","",593,620);
+$z[2][4]['name']="cfg_webname";
+$z[3]=Array("type","<a href=\"[field:typelink/]\">[field:typename/]</a>",1552,1637);
+$z[3][4]['typeid']="1";
+$z[4]=Array("channelartlist","\r\n                            <li>\r\n                                 <h3><a href=\"{gemel:field.typeurl/}\">{gemel:field.typename/}</a></h3>\r\n                                 {gemel:channel type='onlyson'}  \r\n                                 <h4><em></em><a href=\"[field:typeurl/]\">[field:typename/]</a></h4>  \r\n                                 {/gemel:channel}\r\n                            </li>\r\n                            ",1769,2249);
+$z[4][4]['typeid']="1";
+$z[5]=Array("type","<a href=\"[field:typelink/]\">[field:typename/]</a>",2358,2443);
+$z[5][4]['typeid']="2";
+$z[6]=Array("channelartlist","\r\n                            <li>\r\n                                 <h3><a href=\"{gemel:field.typeurl/}\">{gemel:field.typename/}</a></h3>\r\n                                 {gemel:channel type='onlyson'}  \r\n                                 <h4><em></em><a href=\"[field:typeurl/]\">[field:typename/]</a></h4>  \r\n                                 {/gemel:channel}\r\n                            </li>\r\n                            ",2575,3055);
+$z[6][4]['typeid']="2";
+$z[7]=Array("type","<a href=\"[field:typelink/]\">[field:typename/]</a>",3164,3249);
+$z[7][4]['typeid']="3";
+$z[8]=Array("channelartlist","\r\n                            <li>\r\n                                 <h3><a href=\"{gemel:field.typeurl/}\">{gemel:field.typename/}</a></h3>\r\n                                 {gemel:channel type='onlyson'}  \r\n                                 <h4><em></em><a href=\"[field:typeurl/]\">[field:typename/]</a></h4>  \r\n                                 {/gemel:channel}\r\n                            </li>\r\n                            ",3381,3861);
+$z[8][4]['typeid']="3";
+$z[9]=Array("type","<a href=\"[field:typelink/]\">[field:typename/]</a>",3970,4055);
+$z[9][4]['typeid']="4";
+$z[10]=Array("channelartlist","\r\n                            <li>\r\n                                 <h3><a href=\"{gemel:field.typeurl/}\">{gemel:field.typename/}</a></h3>\r\n                                 {gemel:channel type='onlyson'}  \r\n                                 <h4><em></em><a href=\"[field:typeurl/]\">[field:typename/]</a></h4>  \r\n                                 {/gemel:channel}\r\n                            </li>\r\n                            ",4187,4667);
+$z[10][4]['typeid']="4";
+$z[11]=Array("type","<a href=\"[field:typelink/]\">[field:typename/]</a>",4776,4861);
+$z[11][4]['typeid']="5";
+$z[12]=Array("channelartlist","\r\n                            <li>\r\n                                 <h3><a href=\"{gemel:field.typeurl/}\">{gemel:field.typename/}</a></h3>\r\n                                 {gemel:channel type='onlyson'}  \r\n                                 <h4><em></em><a href=\"[field:typeurl/]\">[field:typename/]</a></h4>  \r\n                                 {/gemel:channel}\r\n                            </li>\r\n                            ",4993,5473);
+$z[12][4]['typeid']="5";
+$z[13]=Array("type","<a href=\"[field:typelink/]\">[field:typename/]</a>",5582,5667);
+$z[13][4]['typeid']="6";
+$z[14]=Array("channelartlist","\r\n                            <li>\r\n                                 <h3><a href=\"{gemel:field.typeurl/}\">{gemel:field.typename/}</a></h3>\r\n                                 {gemel:channel type='onlyson'}  \r\n                                 <h4><em></em><a href=\"[field:typeurl/]\">[field:typename/]</a></h4>  \r\n                                 {/gemel:channel}\r\n                            </li>\r\n                            ",5799,6279);
+$z[14][4]['typeid']="6";
+$z[15]=Array("type","<a href=\"[field:typelink/]\">[field:typename/]</a>",6370,6455);
+$z[15][4]['typeid']="7";
+$z[16]=Array("type","<a href=\"[field:typelink/]\">[field:typename/]</a>",6478,6563);
+$z[16][4]['typeid']="9";
+$z[17]=Array("type","<a href=\"[field:typelink/]\">[field:typename/]</a>",6586,6672);
+$z[17][4]['typeid']="10";
+$z[18]=Array("include","",8388,8426);
+$z[18][4]['filename']="footer.htm";
+
+?>

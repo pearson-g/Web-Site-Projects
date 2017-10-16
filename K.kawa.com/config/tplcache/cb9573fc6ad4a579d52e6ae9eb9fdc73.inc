@@ -1,0 +1,1 @@
+<a href='[field:typelink/]'><span class="gt_icon"><</span>[field:typename/]</a>

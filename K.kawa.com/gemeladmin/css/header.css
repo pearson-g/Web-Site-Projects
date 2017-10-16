@@ -1,0 +1,156 @@
+@charset "utf-8";
+*{
+	padding:0px;
+	margin:0px;
+}
+body {
+	font-family:Verdana,Arial,Helvetica,sans-serif;
+	font-size:12px;
+}
+ul,li {
+	list-style:none;
+}
+a {
+	color:#333;
+	text-decoration:none;
+	outline:none;
+	_hide-focus:expression(this.hideFocus=true);
+}
+a:hover {
+	color:#e84413;
+	text-decoration:none;
+}
+.head {
+	width:100%;
+	height:95px;
+	z-index:8;
+	position:relative;
+}
+.head .top {
+	height:134px;
+	width:100%;
+	overflow:hidden;
+}
+.head .top_right {
+	width:20px;
+	height:32px;
+	position:absolute;
+	z-index:10;
+	overflow:hidden;
+	right:0;
+	bottom:0;
+}
+.top_over {
+	width:100%;
+	height:95px;
+	overflow:hidden;
+	float:left;
+}
+.top_logo {
+	width:293px;
+	height:95px;
+	float:left;
+	overflow:hidden;
+}
+.top_logo a {
+	width:293px;
+	height:95px;
+	float:left;
+	display:block;
+	overflow:hidden;
+	text-indent:-9999px;
+	background:url(../images/logo.png) no-repeat;
+}
+.top_box {
+	height:95px;
+	float:right;
+	overflow:hidden;
+}
+.top_welcome {
+	height:25px;
+	line-height:25px;
+	overflow:hidden;
+	margin-bottom:10px;
+}
+.top_welcome span {
+	font-weight:bold;
+}
+.top_ico {
+	height:64px;
+	float:left;
+	overflow:hidden;
+}
+.top_ico li {
+	width:83px;
+	height:64px;
+	float:left;
+	overflow:hidden;
+}
+.top_ico li a {
+	width:79px;
+	height:20px;
+	line-height:20px;
+	float:left;
+	display:block;
+	text-align:center;
+	padding:41px 0px 3px 4px;
+	color:#FFF;
+}
+.top_menu {
+	height:95px;
+	float:left;
+	overflow:hidden;
+}
+.top_menu ul {
+	height:95px;
+	float:right;
+	overflow:hidden;
+}
+.top_menu ul li {
+	width:107px;
+	height:95px;
+	text-align:center;
+	float:left;
+	overflow:hidden;
+	display:inline;
+	margin-left:5px;
+}
+.top_menu ul li a {
+	width:107px;
+	height:25px;
+	float:left;
+	display:block;
+	overflow:hidden;
+	padding-top:70px;
+}
+.top_menu ul li a:hover {
+
+}
+.top_menu ul li.on{ background:url(../images/menu_bg.jpg) no-repeat}
+
+.gohome{ float:left; margin:20px 0 0 40px; display:inline}
+.gohome_1{ background:url(../images/gohome.png) left center no-repeat; padding:0 0 0 30px; height:30px; line-height:30px; display:inline-block;}
+.gohome_2{background:url(../images/exit.png) left center no-repeat; padding:0 0 0 30px; height:30px; line-height:30px; display:inline-block; margin-left:20px;}
+
+
+
+
+.ico1{ background:url(../images/icon_01.jpg) center 15px no-repeat;}
+.ico2{ background:url(../images/icon_02.jpg) center 20px no-repeat;}
+.ico3{ background:url(../images/icon_03.jpg) center 17px no-repeat;}
+.ico4{ background:url(../images/icon_04.jpg) center 22px no-repeat;}
+.ico5{ background:url(../images/icon_05.jpg) center 15px no-repeat;}
+.ico6{ background:url(../images/icon_06.jpg) center 18px no-repeat;}
+.ico7{ background:url(../images/icon_07.jpg) center 15px no-repeat;}
+.ico8{ background:url(../images/icon_08.jpg) center 15px no-repeat;}
+
+.ico1.bg_on{ background:url(../images/icon_01.png) center 15px no-repeat; }
+.ico2.bg_on{ background:url(../images/icon_02.png) center 20px no-repeat;}
+.ico3.bg_on{ background:url(../images/icon_03.png) center 17px no-repeat;}
+.ico4.bg_on{ background:url(../images/icon_04.png) center 22px no-repeat;}
+.ico5.bg_on{ background:url(../images/icon_05.png) center 15px no-repeat;}
+.ico6.bg_on{ background:url(../images/icon_06.png) center 18px no-repeat;}
+.ico7.bg_on{ background:url(../images/icon_07.png) center 15px no-repeat;}
+.ico8.bg_on{ background:url(../images/icon_08.png) center 15px no-repeat;}
+
+.bg_on{color:#e84413;}

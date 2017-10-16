@@ -1,0 +1,5 @@
+[field:content/]
+                </div>
+                <div class="view-more">
+                    <a href="[field:typelink/]">VIEW MORE</a>
+                </div>

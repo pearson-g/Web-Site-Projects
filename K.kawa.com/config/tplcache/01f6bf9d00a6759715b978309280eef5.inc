@@ -1,0 +1,10 @@
+{gemel:pagestyle maxwidth='800' pagepicnum='' ddmaxwidth='200' row='100' col='100' value='3'/}
+{gemel:img ddimg='/upload/allimg/160111/collar-tpu-01-lp.jpg' text='' width='458' height='458'} /upload/allimg/160111/collar-tpu-01.jpg {/gemel:img}
+{gemel:img ddimg='/upload/allimg/160111/collar-tpu-02-lp.jpg' text='' width='458' height='458'} /upload/allimg/160111/collar-tpu-02.jpg {/gemel:img}
+{gemel:img ddimg='/upload/allimg/160111/collar-tpu-03-lp.jpg' text='' width='458' height='458'} /upload/allimg/160111/collar-tpu-03.jpg {/gemel:img}
+{gemel:img ddimg='/upload/allimg/160111/collar-tpu-04-lp.jpg' text='' width='458' height='458'} /upload/allimg/160111/collar-tpu-04.jpg {/gemel:img}
+{gemel:img ddimg='/upload/allimg/160111/collar-tpu-05-lp.jpg' text='' width='458' height='458'} /upload/allimg/160111/collar-tpu-05.jpg {/gemel:img}
+{gemel:img ddimg='/upload/allimg/160111/collar-tpu-06-lp.jpg' text='' width='458' height='458'} /upload/allimg/160111/collar-tpu-06.jpg {/gemel:img}
+{gemel:img ddimg='/upload/allimg/160111/collar-tpu-07-lp.jpg' text='' width='458' height='458'} /upload/allimg/160111/collar-tpu-07.jpg {/gemel:img}
+{gemel:img ddimg='/upload/allimg/160111/collar-tpu-08-lp.jpg' text='' width='458' height='458'} /upload/allimg/160111/collar-tpu-08.jpg {/gemel:img}
+{gemel:img ddimg='/upload/allimg/160111/collar-tpu-09-lp.jpg' text='' width='458' height='458'} /upload/allimg/160111/collar-tpu-09.jpg {/gemel:img}

@@ -1,0 +1,1 @@
+<input class="input" name="pro_name" type="text" size="25" value="[field.title]" />

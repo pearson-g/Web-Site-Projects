@@ -1,0 +1,1 @@
+<li><a href="[field:typeurl/]" class="index_news_a">[field:typename/]</a></li>

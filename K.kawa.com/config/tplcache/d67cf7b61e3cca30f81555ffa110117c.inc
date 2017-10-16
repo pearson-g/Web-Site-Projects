@@ -1,0 +1,1 @@
+<a href="[field:typeurl/]"[field:open_new/]>[field:open_new/]</a>

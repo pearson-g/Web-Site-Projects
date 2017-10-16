@@ -1,0 +1,1 @@
+<div class="social_des">[field:description/]<br /><br /><a href="[field:typeurl/]">YunNan Di-xi Charity School</a></div>

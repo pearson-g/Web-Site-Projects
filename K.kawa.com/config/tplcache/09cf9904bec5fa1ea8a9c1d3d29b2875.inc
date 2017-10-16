@@ -1,0 +1,2 @@
+<a href="[field:arcurl/]"><b>[field:title/]</b><span class="newsgif"></span></a>
+                <p>[field:description function='cn_substrR(html2text(@me),150)'/]  <a href="[field:arcurl/]" style="color:#ff9900;">[详情]</a></p>

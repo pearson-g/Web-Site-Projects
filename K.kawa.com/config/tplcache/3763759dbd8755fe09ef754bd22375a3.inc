@@ -1,0 +1,1 @@
+<a href=""><img src="/templets/style/images/contact.jpg" /></a>

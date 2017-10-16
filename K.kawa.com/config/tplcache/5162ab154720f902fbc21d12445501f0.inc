@@ -1,0 +1,1 @@
+<a href="[field:link/]">[field:title/]</a><span>|</span>

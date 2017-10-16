@@ -1,0 +1,7 @@
+SQL标签
+>>gemel>>
+{gemel:sql sql=''}
+[field:title/]
+{/gemel}
+>>gemel>>
+sql='' 完整的SQL语句

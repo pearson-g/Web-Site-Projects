@@ -1,0 +1,1 @@
+[field:typename/]<span>[field:seotitle/]</span>

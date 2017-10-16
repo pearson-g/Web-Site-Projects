@@ -1,0 +1,1 @@
+<a href="[field:typeurl" class="product_inquiry"></a>]

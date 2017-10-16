@@ -1,0 +1,14 @@
+{gemel:pagestyle maxwidth='800' pagepicnum='' ddmaxwidth='200' row='100' col='100' value='3'/}
+{gemel:img ddimg='/upload/allimg/151020/arc-01-lp.png' text='' width='870' height='555'} /upload/allimg/151020/arc-01.png {/gemel:img}
+{gemel:img ddimg='/upload/allimg/151020/arc-02-lp.png' text='' width='870' height='555'} /upload/allimg/151020/arc-02.png {/gemel:img}
+{gemel:img ddimg='/upload/allimg/151020/arc-03-lp.png' text='' width='870' height='555'} /upload/allimg/151020/arc-03.png {/gemel:img}
+{gemel:img ddimg='/upload/allimg/151020/arc-04-lp.png' text='' width='870' height='555'} /upload/allimg/151020/arc-04.png {/gemel:img}
+{gemel:img ddimg='/upload/allimg/151020/arc-05-lp.png' text='' width='870' height='555'} /upload/allimg/151020/arc-05.png {/gemel:img}
+{gemel:img ddimg='/upload/allimg/151020/arc-06-lp.png' text='' width='870' height='555'} /upload/allimg/151020/arc-06.png {/gemel:img}
+{gemel:img ddimg='/upload/allimg/151020/arc-07-lp.png' text='' width='870' height='555'} /upload/allimg/151020/arc-07.png {/gemel:img}
+{gemel:img ddimg='/upload/allimg/151020/arc-08-lp.png' text='' width='870' height='555'} /upload/allimg/151020/arc-08.png {/gemel:img}
+{gemel:img ddimg='/upload/allimg/151020/arc-09-lp.png' text='' width='870' height='555'} /upload/allimg/151020/arc-09.png {/gemel:img}
+{gemel:img ddimg='/upload/allimg/151020/arc-10-lp.png' text='' width='870' height='555'} /upload/allimg/151020/arc-10.png {/gemel:img}
+{gemel:img ddimg='/upload/allimg/151020/arc-11-lp.png' text='' width='870' height='555'} /upload/allimg/151020/arc-11.png {/gemel:img}
+{gemel:img ddimg='/upload/allimg/151020/arc-12-lp.png' text='' width='870' height='555'} /upload/allimg/151020/arc-12.png {/gemel:img}
+{gemel:img ddimg='/upload/allimg/151020/arc-13-lp.png' text='' width='870' height='555'} /upload/allimg/151020/arc-13.png {/gemel:img}

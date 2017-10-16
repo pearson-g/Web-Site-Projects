@@ -1,0 +1,1 @@
+<li><a href="javascript:viod(0);"><img src="[field:litpic/]" width="448" height="275" title="{gemel:field.typename/}" alt="{gemel:field.typename/}" /></a></li>

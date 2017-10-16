@@ -1,0 +1,16 @@
+{gemel:field name='keywords'}站长之家, 友盟, 阿里巴巴{/gemel:field}
+{gemel:field name='description'}移动应用统计分析公司友盟多次被传出被阿里收购的消息，但官方一直未公开证实。在日前的移动开发者大会上，友盟商务副总裁蒋桦日前在接受媒体采访时仍回避该问题，称与阿里{/gemel:field}
+{gemel:field name='title'}友盟拒谈被阿里收购 坚称独立公司独立运营{/gemel:field}
+{gemel:field name='writer'}{/gemel:field}
+{gemel:field name='source'}{/gemel:field}
+{gemel:field name='body'}<p style="text-align:center;">          </p>
+                                                            <p style="text-indent: 0px; text-align: center;"><img src="/upload/allimg/c131114/13T4101O59E0-1C29.jpg" border="0" /></p>
+<p style="text-align: center;">友盟拒谈被阿里收购 坚称独立公司独立运营（TechWeb配图）</p>
+<p>【TechWeb报道】11月14日消息，移动应用统计分析公司友盟多次被传出被阿里收购的消息，但官方一直未公开证实。在日前的移动开发者大会上，友盟商务副总裁蒋桦日前在接受媒体采访时仍回避该问题，称与阿里一直保持合作关系，友盟仍是一家独立公司，坚持独立运营。</p>
+<p>友盟于2010年4月成立，早期为创新工场旗下项目，以移动应用统计分析为产品起点，业务逐步转型至帮助开发者提供从开发到运营的&ldquo;一站式解决方案&rdquo;，包含移动应用统计分析以及细分行业的移动游戏统计分析、社会化组件、消息推送、CDN云加速等产品和服务。目前友盟覆盖多个系统平台的5.9亿活跃设备， 18万应用，6万开发者，日session超20亿。</p>
+<p>今年上半年开始，有消息称阿里巴巴已正式收购友盟，交易价格约为8000万美元。交易完成后，友盟团队将融入阿里巴巴。阿里巴巴对此表示不予置评，友盟也一直未在公开场合证实该消息。</p>
+<p>友盟商务副总裁蒋桦近日在出席移动开发者大会时同样未正面回答该问题，仅表示友盟是一家独立的公司，矜持独立运营，&ldquo;我们跟阿里有很多合作，发布一些新的开发者产品，包括阿里之前推出的无线支付产品&rdquo;。</p>
+<p>作为移动应用统计分析公司，数据是业务的核心。阿里巴巴近年来着力推动大数据战略，收购友盟后，其将获得友盟最有价值的资产&mdash;&mdash;后者积累的大量移动应用数据。目前友盟掌握超过18万移动应用的数据，这些数据被认为对分析用户行为和移动电商广告精准营销具有重要价值。</p>
+<p>蒋桦并未否认双方存在数据互通行为，&ldquo;我们数据完全在隐私条款和数据表协议下做分析和使用，这是我们做任何事情一个基本的核心原则&rdquo;。（恰克）</p>{/gemel:field}
+{gemel:field name='pubdate'}{/gemel:field}
+{gemel:field name='litpic'}/upload/allimg/c131114/13T4101O59E0-1C29_lit.jpg{/gemel:field}

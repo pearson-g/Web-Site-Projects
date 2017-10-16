@@ -1,0 +1,1 @@
+<li><a href="[field:typedir function='str_replace("{cmspath}","",@me)'/]"><img src="{gemel:field name='typepic'/}" alt="{gemel:field name='typename'/}" title="{gemel:field name='typename'/}" width="88" height="88" /><span>{gemel:field name='typename'/}</span></a></li>

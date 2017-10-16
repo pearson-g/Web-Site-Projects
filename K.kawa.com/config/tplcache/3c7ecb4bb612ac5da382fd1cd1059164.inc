@@ -1,0 +1,4 @@
+<p>
+                [field:content/]
+                <!-- <a href="http://www.golden-lighting.com/
+"><strong>Zhongshan Golden Hongen Lighting Co., LTD.</strong></a> has been specialized in lighting industry for more than ten years. We stick to the path of environmental protection and are dedicated to become "The best outdoor plastic lighting company in China". In recent years, we have been engaged in researching and development of new products. For now, we have developed different series like pendant, wall lamp, fence lamp, yard lamp, and they are widely exported to Ukraine , France, Australia, Russia, and many other countries. --></p>

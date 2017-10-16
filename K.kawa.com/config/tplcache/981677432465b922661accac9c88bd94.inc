@@ -1,0 +1,1 @@
+<a href='[field:typelink/]'><img src="[field:typepic/]" alt="[field:typename/]" title="[field:typename/]" width="88" height="88" /><span>[field:typename/]</span></a>

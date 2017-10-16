@@ -1,0 +1,1 @@
+<li><a href="[field:array runphp='yes'] @me=GetOneTypeUrlA(@me);[/field:array]">[field:typename/]</a></li>

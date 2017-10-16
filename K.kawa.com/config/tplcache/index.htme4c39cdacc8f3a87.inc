@@ -1,0 +1,47 @@
+<?php
+$z[0]=Array("global","",278,306);
+$z[0][4]['name']="cfg_keywords";
+$z[1]=Array("global","",345,376);
+$z[1][4]['name']="cfg_description";
+$z[2]=Array("global","",631,658);
+$z[2][4]['name']="cfg_webname";
+$z[3]=Array("type","<a href=\"[field:typelink/]\">[field:typename/]</a>",1256,1341);
+$z[3][4]['typeid']="1";
+$z[4]=Array("channelartlist","\r\n                          <h3><a href=\"{gemel:field.typeurl/}\">{gemel:field.typename/}</a></h3>\r\n                          ",1420,1601);
+$z[4][4]['typeid']="1";
+$z[5]=Array("type","<a href=\"[field:typelink/]\">[field:typename/]</a>",1678,1763);
+$z[5][4]['typeid']="2";
+$z[6]=Array("type","<a href=\"[field:typelink/]\">[field:typename/]</a>",1791,1876);
+$z[6][4]['typeid']="3";
+$z[7]=Array("type","<a href=\"[field:typelink/]\">[field:typename/]</a>",1904,1989);
+$z[7][4]['typeid']="4";
+$z[8]=Array("type","<a href=\"[field:typelink/]\">[field:typename/]</a>",2017,2102);
+$z[8][4]['typeid']="5";
+$z[9]=Array("type","<a href=\"[field:typelink/]\">[field:typename/]</a>",2130,2215);
+$z[9][4]['typeid']="6";
+$z[10]=Array("type","<a href=\"[field:typelink/]\">[field:typename/]</a>",2243,2328);
+$z[10][4]['typeid']="7";
+$z[11]=Array("banner","\r\n            <li>\r\n                 <a href=\"[field:link/]\"><img src=\"[field:pic/]\" title=\"[field:text/]\" alt=\"[field:text/]\" width=\"1600\" height=\"648\" /></a>\r\n            </li>\r\n            ",2501,2742);
+$z[11][4]['name']="index_banner";
+$z[12]=Array("banner","\r\n            <li></li>\r\n            ",2927,3013);
+$z[12][4]['name']="index_banner";
+$z[13]=Array("global","",3089,3116);
+$z[13][4]['name']="cfg_webname";
+$z[14]=Array("arclist","\r\n                <li>\r\n                     <div class=\"img\">\r\n                          <img src=\"[field:litpic/]\" title=\"[field:title/] - [field:typename/]\" alt=\"[field:title/] - [field:typename/]\" width=\"260\" height=\"208\"/>\r\n                          <a href=\"\"><img src=\"/images/home-more.png\" title=\"[field:title/] - [field:typename/]\" alt=\"[field:title/] - [field:typename/]\" width=\"260\" height=\"208\" /></a>\r\n                     </div>\r\n                     <h4><a href=\"[field:arcurl/]\">[field:title/]</a></h4>\r\n                     <h3><a href=\"[field:arcurl/]\">[field:typename/]</a></h3>\r\n                     <a href=\"[field:arcurl/]\">READ MORE</a>\r\n                </li>\r\n                ",3304,4096);
+$z[14][4]['row']="8";
+$z[14][4]['typeid']="1";
+$z[14][4]['titlelen']="100";
+$z[14][4]['flag']="c";
+$z[14][4]['orderby']="weight";
+$z[15]=Array("banner","\r\n                    <li><a href=\"/about/\"><img src=\"[field:pic/]\" title=\"Dilu Technology (Shenzhen) Co., Ltd.\" alt=\"Dilu Technology (Shenzhen) Co., Ltd.\" width=\"279\" height=\"310\"/></a></li>\r\n                    ",4974,5235);
+$z[15][4]['name']="index_about";
+$z[16]=Array("arclist","\r\n                 <li>\r\n                      <a href=\"[field:arcurl/]\" title=\"[field:title/]\"><img src=\"[field:litpic/]\" title=\"[field:title/]\" alt=\"[field:title/]\" width=\"278\" height=\"375\" /></a>\r\n                      <div class=\"title\">\r\n                          <h3><a href=\"[field:arcurl/]\"  title=\"[field:title/]\">[field:title/]</a></h3>\r\n                      </div>                    \r\n                 </li>\r\n                 ",6790,7320);
+$z[16][4]['orderby']="weight";
+$z[16][4]['typeid']="3";
+$z[16][4]['flag']="c";
+$z[16][4]['titlelen']="180";
+$z[16][4]['row']="4";
+$z[17]=Array("include","",7401,7439);
+$z[17][4]['filename']="footer.htm";
+
+?>

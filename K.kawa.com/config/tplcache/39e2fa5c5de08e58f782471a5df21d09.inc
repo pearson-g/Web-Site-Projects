@@ -1,0 +1,1 @@
+<a href="[field:typelink/]" class="more">More &gt;&gt;</a>

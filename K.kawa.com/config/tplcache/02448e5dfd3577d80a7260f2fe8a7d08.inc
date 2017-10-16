@@ -1,0 +1,1 @@
+<a href="[field:typelink/]" target="_blank">中文</a>

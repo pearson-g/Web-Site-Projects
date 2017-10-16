@@ -1,0 +1,1 @@
+<a href='{gemel:field.typelink/}'><span class="gt_icon"><</span>{gemel:field.typename/}</a>

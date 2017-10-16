@@ -1,0 +1,43 @@
+<?php
+$z[0]=Array("global","",183,210);
+$z[0][4]['name']="cfg_webname";
+$z[1]=Array("global","",219,246);
+$z[1][4]['name']="cfg_webname";
+$z[2]=Array("type","<a href=\"[field:typelink/]\">[field:typename/]</a>",968,1053);
+$z[2][4]['typeid']="1";
+$z[3]=Array("channelartlist","\r\n                            <h3><a href=\"{gemel:field.typeurl/}\">{gemel:field.typename/}</a></h3>\r\n                            ",1175,1360);
+$z[3][4]['typeid']="1";
+$z[4]=Array("type","<a href=\"[field:typelink/]\">[field:typename/]</a>",1473,1558);
+$z[4][4]['typeid']="5";
+$z[5]=Array("type","<a href=\"[field:typelink/]\">[field:typename/]</a>",1639,1724);
+$z[5][4]['typeid']="6";
+$z[6]=Array("type","<a href=\"[field:typelink/]\">[field:typename/]</a>",1806,1891);
+$z[6][4]['typeid']="7";
+$z[7]=Array("type","<a href=\"[field:typelink/]\">[field:typename/]</a>",1973,2059);
+$z[7][4]['typeid']="52";
+$z[8]=Array("type","<a href=\"[field:typelink/]\">[field:typename/]</a>",2141,2226);
+$z[8][4]['typeid']="8";
+$z[9]=Array("type","<a href=\"[field:typelink/]\">[field:typename/]</a>",2307,2392);
+$z[9][4]['typeid']="9";
+$z[10]=Array("global","",3199,3226);
+$z[10][4]['name']="cfg_webname";
+$z[11]=Array("global","",3235,3262);
+$z[11][4]['name']="cfg_webname";
+$z[12]=Array("type","<a href=\"[field:typelink/]\">[field:typename/]</a>",3757,3842);
+$z[12][4]['typeid']="1";
+$z[13]=Array("channelartlist","\r\n                   <h3><a href=\"{gemel:field.typeurl/}\">{gemel:field.typename/}</a></h3>\r\n                ",3860,4024);
+$z[13][4]['typeid']="1";
+$z[14]=Array("type","<a href=\"[field:typelink/]\">[field:typename/]</a>",4061,4146);
+$z[14][4]['typeid']="5";
+$z[15]=Array("type","<a href=\"[field:typelink/]\">[field:typename/]</a>",4169,4254);
+$z[15][4]['typeid']="6";
+$z[16]=Array("type","<a href=\"[field:typelink/]\">[field:typename/]</a>",4277,4362);
+$z[16][4]['typeid']="7";
+$z[17]=Array("type","<a href=\"[field:typelink/]\">[field:typename/]</a>",4385,4471);
+$z[17][4]['typeid']="52";
+$z[18]=Array("type","<a href=\"[field:typelink/]\">[field:typename/]</a>",4494,4579);
+$z[18][4]['typeid']="8";
+$z[19]=Array("type","<a href=\"[field:typelink/]\">[field:typename/]</a>",4602,4687);
+$z[19][4]['typeid']="9";
+
+?>

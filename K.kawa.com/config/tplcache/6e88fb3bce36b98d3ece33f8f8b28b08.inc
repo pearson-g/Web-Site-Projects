@@ -1,0 +1,1 @@
+<a href="[field:typelink/]" target="_blank">2 WHEELS ELECTRIC SCOOTER</a>

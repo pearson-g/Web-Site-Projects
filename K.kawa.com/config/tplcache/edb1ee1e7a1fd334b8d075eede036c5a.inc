@@ -1,0 +1,1 @@
+<a href="javascript:viod(0);">[field:title/]</a>

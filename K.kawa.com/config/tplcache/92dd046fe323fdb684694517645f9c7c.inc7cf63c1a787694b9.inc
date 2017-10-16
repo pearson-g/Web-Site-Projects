@@ -1,0 +1,45 @@
+<?php
+$z[0]=Array("pagestyle","",0,94);
+$z[0][4]['maxwidth']="800";
+$z[0][4]['pagepicnum']="";
+$z[0][4]['ddmaxwidth']="200";
+$z[0][4]['row']="100";
+$z[0][4]['col']="100";
+$z[0][4]['value']="3";
+$z[1]=Array("img"," /upload/allimg/150505/solar-street-lights-01.png ",96,262);
+$z[1][4]['ddimg']="/upload/allimg/150505/solar-street-lights-01-lp.png";
+$z[1][4]['text']="";
+$z[1][4]['width']="518";
+$z[1][4]['height']="548";
+$z[2]=Array("img"," /upload/allimg/150505/solar-street-lights-02.png ",264,430);
+$z[2][4]['ddimg']="/upload/allimg/150505/solar-street-lights-02-lp.png";
+$z[2][4]['text']="";
+$z[2][4]['width']="518";
+$z[2][4]['height']="548";
+$z[3]=Array("img"," /upload/allimg/150505/solar-street-lights-03.png ",432,598);
+$z[3][4]['ddimg']="/upload/allimg/150505/solar-street-lights-03-lp.png";
+$z[3][4]['text']="";
+$z[3][4]['width']="518";
+$z[3][4]['height']="548";
+$z[4]=Array("img"," /upload/allimg/150505/solar-street-lights-04.png ",600,766);
+$z[4][4]['ddimg']="/upload/allimg/150505/solar-street-lights-04-lp.png";
+$z[4][4]['text']="";
+$z[4][4]['width']="518";
+$z[4][4]['height']="548";
+$z[5]=Array("img"," /upload/allimg/150505/solar-street-lights-05-m.png ",768,938);
+$z[5][4]['ddimg']="/upload/allimg/150505/solar-street-lights-05-m-lp.png";
+$z[5][4]['text']="";
+$z[5][4]['width']="662";
+$z[5][4]['height']="700";
+$z[6]=Array("img"," /upload/allimg/150505/solar-street-lights-06.png ",940,1106);
+$z[6][4]['ddimg']="/upload/allimg/150505/solar-street-lights-06-lp.png";
+$z[6][4]['text']="";
+$z[6][4]['width']="518";
+$z[6][4]['height']="548";
+$z[7]=Array("img"," /upload/allimg/150505/solar-street-lights-07.png ",1108,1274);
+$z[7][4]['ddimg']="/upload/allimg/150505/solar-street-lights-07-lp.png";
+$z[7][4]['text']="";
+$z[7][4]['width']="518";
+$z[7][4]['height']="548";
+
+?>

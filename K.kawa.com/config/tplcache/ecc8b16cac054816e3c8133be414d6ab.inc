@@ -1,0 +1,9 @@
+{gemel:pagestyle maxwidth='800' pagepicnum='' ddmaxwidth='200' row='100' col='100' value='3'/}
+{gemel:img ddimg='/upload/allimg/151218/kbq-165-1-lp.png' text='' width='540' height='670'} /upload/allimg/151218/kbq-165-1.png {/gemel:img}
+{gemel:img ddimg='/upload/allimg/151218/kbq-165-2-lp.png' text='' width='540' height='670'} /upload/allimg/151218/kbq-165-2.png {/gemel:img}
+{gemel:img ddimg='/upload/allimg/151218/kbq-165-3-lp.png' text='' width='540' height='670'} /upload/allimg/151218/kbq-165-3.png {/gemel:img}
+{gemel:img ddimg='/upload/allimg/151218/kbq-165-4-lp.png' text='' width='540' height='670'} /upload/allimg/151218/kbq-165-4.png {/gemel:img}
+{gemel:img ddimg='/upload/allimg/151218/kbq-165-5-lp.png' text='' width='540' height='670'} /upload/allimg/151218/kbq-165-5.png {/gemel:img}
+{gemel:img ddimg='/upload/allimg/151218/kbq-165-6-lp.png' text='' width='540' height='670'} /upload/allimg/151218/kbq-165-6.png {/gemel:img}
+{gemel:img ddimg='/upload/allimg/151218/kbq-165-7-lp.png' text='' width='540' height='670'} /upload/allimg/151218/kbq-165-7.png {/gemel:img}
+{gemel:img ddimg='/upload/allimg/151218/kbq-165-8-lp.png' text='' width='540' height='670'} /upload/allimg/151218/kbq-165-8.png {/gemel:img}

@@ -1,0 +1,10 @@
+{gemel:pagestyle maxwidth='800' pagepicnum='' ddmaxwidth='200' row='100' col='100' value='3'/}
+{gemel:img ddimg='/upload/allimg/150505/firestone-lightsource-40-60w-01.png-50' text='' width='518' height='548'} /upload/allimg/150505/firestone-lightsource-40-60w-01.png-50 {/gemel:img}
+{gemel:img ddimg='/upload/allimg/150505/firestone-lightsource-40-60w-02.png-50' text='' width='518' height='548'} /upload/allimg/150505/firestone-lightsource-40-60w-02.png-50 {/gemel:img}
+{gemel:img ddimg='/upload/allimg/150505/firestone-lightsource-40-60w-03.png-50' text='' width='518' height='548'} /upload/allimg/150505/firestone-lightsource-40-60w-03.png-50 {/gemel:img}
+{gemel:img ddimg='/upload/allimg/150505/firestone-lightsource-40-60w-04.png-50' text='' width='518' height='548'} /upload/allimg/150505/firestone-lightsource-40-60w-04.png-50 {/gemel:img}
+{gemel:img ddimg='/upload/allimg/150505/firestone-lightsource-40-60w-05.png-50' text='' width='518' height='548'} /upload/allimg/150505/firestone-lightsource-40-60w-05.png-50 {/gemel:img}
+{gemel:img ddimg='/upload/allimg/150505/firestone-lightsource-40-60w-06.png-50' text='' width='518' height='548'} /upload/allimg/150505/firestone-lightsource-40-60w-06.png-50 {/gemel:img}
+{gemel:img ddimg='/upload/allimg/150505/firestone-lightsource-40-60w-07.png-50' text='' width='518' height='548'} /upload/allimg/150505/firestone-lightsource-40-60w-07.png-50 {/gemel:img}
+{gemel:img ddimg='/upload/allimg/150505/firestone-lightsource-40-60w-08.png-50' text='' width='518' height='548'} /upload/allimg/150505/firestone-lightsource-40-60w-08.png-50 {/gemel:img}
+{gemel:img ddimg='/upload/allimg/150505/firestone-lightsource-40-60w-09.png-50' text='' width='518' height='548'} /upload/allimg/150505/firestone-lightsource-40-60w-09.png-50 {/gemel:img}

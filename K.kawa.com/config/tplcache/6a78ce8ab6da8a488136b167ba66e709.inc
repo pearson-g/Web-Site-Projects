@@ -1,0 +1,1 @@
+<a href="[field:typeurl/]" target="_blank">我已仔细阅读并同意 棋博士用户隐私条款</a>

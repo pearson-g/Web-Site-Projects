@@ -1,0 +1,56 @@
+{gemel:include filename="head.htm"/}
+<body>
+<!--nav begin -->
+{gemel:include filename="nav.htm"/}
+<!--nav end -->
+<div class="news-banner">
+     <img src="{gemel:field.typepic/}" title="{gemel:field.seotitle /}" alt="{gemel:field.seotitle /}" width="1600" height="500" />
+     
+</div>
+<!--product-list start-->
+<h1 class="none">{gemel:field.seotitle/}</h1>
+<div class="news-box">
+    <div class="bread-box">
+        <div class="bread  w1200">
+           <p>You are here:&nbsp;{gemel:field.position function=position_preg(@me)/}</p>
+        </div>
+    </div> 
+   <div class="w1200 news-content">
+        <h2>{gemel:field.typename/}</h2>
+        <span>&nbsp;</span>
+        {gemel:field.content/}
+        <ul class="clear">  
+        {gemel:list orderby='weight' pagesize='4' titlelen='180' addfields='add_time' channelid='1'}
+
+            <li class="clear">
+
+            <a href="[field:arcurl/]" class="news-img">
+                <img src="[field:litpic/]" width="200" height="200" alt="[field:title/]" title="[field:title/]">
+            </a>
+                <div class="news-info">
+                    <h3><a href="[field:arcurl/]">[field:title/]</a></h3>
+                    <p>[field:description function='cn_substrR(html2text(@me),100)'/]..</p>
+                    <a href="[field:arcurl/]" class="more">VIEW MORE</a>
+                </div>
+            </li>
+          
+           {/gemel:list}
+
+        </ul>
+        <div class="page">
+            <ul>
+          {gemel:pagelist listitem="index,end,pageno" listsize="4" sitelang='en'/}  
+    </ul>   
+      </div>
+   </div>
+  
+</div>
+<!--products  end-->
+<!-- footer  begin -->
+{gemel:include filename="footer.htm"/}
+<!-- footer  end -->
+
+
+
+</body>
+</html>
